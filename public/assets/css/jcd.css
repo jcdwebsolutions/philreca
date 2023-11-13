@@ -1,0 +1,20 @@
+.header-main-one .thumbnail a{
+    padding: 0px;
+}
+
+.header-main-one .thumbnail a img{
+    width: 100%;
+}
+
+li.has-droupdown{
+    margin-right: 30px !important;
+}
+
+.main-header .button-area {
+    margin-left: 0px !important;
+}
+
+@media only screen and (min-width: 1400px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1487px;
+}
