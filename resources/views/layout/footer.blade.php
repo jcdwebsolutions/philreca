@@ -146,12 +146,12 @@
 
 
     <!-- start loader -->
-    <div class="loader-wrapper">
+    <!-- <div class="loader-wrapper">
         <div class="loader">
         </div>
         <div class="loader-section section-left"></div>
         <div class="loader-section section-right"></div>
-    </div>
+    </div> -->
     <!-- End loader -->
 
     <!-- progress Back to top -->

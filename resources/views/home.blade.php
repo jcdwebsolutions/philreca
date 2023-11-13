@@ -22,64 +22,21 @@
     <div class="swiper mySwiper banner-one">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <!-- banner single content -->
-                <div class="banner-one-inner text-start">
-                    <p class="pre-title">
-                        <span>Welcome!</span> Start Growing Your Business Today
-                    </p>
-                    <h1 class="title ">Make <span>Business Unique </span> <br>
-                        With Great Ideas</h1>
-                    <p class="disc banner-para">
-                        Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                        feugiat
-                        fusce conubia ridiculus tristique parturient
-                    </p>
-                    <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
-                    <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
-                </div>
-                <!-- banner single content end -->
+                <div style="clear:both;height:500px;"></div>
             </div>
             <div class="swiper-slide two">
-                <!-- banner single content -->
-                <div class="banner-one-inner text-start">
-                    <p class="pre-title">
-                        <span>Welcome!</span> Start Growing Your Business Today
-                    </p>
-                    <h1 class="title ">Launch <span>Ultra Modern</span> <br> Effective Business</h1>
-                    <p class="disc banner-para">
-                        Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                        feugiat
-                        fusce conubia ridiculus tristique parturient
-                    </p>
-                    <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
-                    <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
-                </div>
-                <!-- banner single content end -->
+                <div style="clear:both;height:500px;"></div>
             </div>
             <div class="swiper-slide three">
-                <!-- banner single content -->
-                <div class="banner-one-inner text-start">
-                    <p class="pre-title">
-                        <span>Welcome!</span> Start Growing Your Business Today
-                    </p>
-                    <h1 class="title ">Make <span>Business Growth</span> <br> With Next Level</h1>
-                    <p class="disc banner-para">
-                        Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                        feugiat
-                        fusce conubia ridiculus tristique parturient
-                    </p>
-                    <a href="#" class="rts-btn btn-primary color-h-black">Get Consultant</a>
-                    <img class="shape-img one" src="assets/images/banner/shape/01.png" alt="banner_business">
-                </div>
-                <!-- banner single content end -->
+                <div style="clear:both;height:500px;"></div>
             </div>
         </div>
         <div class="swiper-pagination"></div>
     </div>
-    <div class="animation-img">
+    <!-- <div class="animation-img">
         <img class="shape-img two" src="assets/images/banner/shape/02.png" alt="banner_business">
         <img class="shape-img three" src="assets/images/banner/shape/03.png" alt="banner_business">
-    </div>
+    </div> -->
 </div>
 <!-- banner blank space area end -->
 
@@ -91,10 +48,9 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
                 <div class="rts-title-area">
                     <p class="pre-title">
-                        More About Us
+                        What is 
                     </p>
-                    <h2 class="title">We Provide Best Business
-                        Solution in Town</h2>
+                    <h2 class="title">Philreca?</h2>
                 </div>
                 <div class="about-inner">
                     <p class="disc">
@@ -138,36 +94,7 @@
                     </div>
                     <!-- start about success area -->
 
-                    <!-- about founder & get in touch start -->
-                    <div class="row about-founder-wrapper align-items-center mt--40">
-                        <!-- left area start -->
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-                            <div class="author-inner">
-                                <a class="thumbnail" href="#"><img src="assets/images/about/sm-01.png" alt="finbiz_founder"></a>
-                                <div class="founder-details">
-                                    <a href="team-details.html">
-                                        <h6 class="title">Adrew David</h6>
-                                    </a>
-                                    <span>CEO & Founder</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- left area end -->
-                        <!-- right founder area -->
-                        <div class="col-lg-6 col-md-6 col-sm-6 col-12 mt_sm--20">
-                            <div class="author-call-option">
-                                <img class="authore-call" src="assets/images/about/call.svg" alt="call_founder">
-                                <div class="call-details">
-                                    <span>Call us anytime</span>
-                                    <a href="tel:+18475555555">
-                                        <h6 class="title">+256 21458.2146</h6>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- left founder area -->
-                    </div>
-                    <!-- about founder & get in touch end -->
+                    
                 </div>
             </div>
             <!-- about right -->
@@ -175,21 +102,9 @@
             <!-- about-right Start-->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-md-1 order-sm-1 order-1">
                 <div class="about-one-thumbnail">
-                    <img src=" assets/images/about/main/about-01.png" alt="about-finbiz">
-                    <img class="small-img" src="assets/images/about/main/about-02.png" alt="finbiz-small">
-                    <div class="experience">
-                        <div class="left single">
-                            <h2 class="title">25+</h2>
-                            <p class="time">Years</p>
-                        </div>
-                        <div class="right single">
-                            <p class="disc">
-                                Of experience
-                                in consulting
-                                service
-                            </p>
-                        </div>
-                    </div>
+                    <img src="assets/images/philreca/home/ec_philreca_logo.png" alt="Philreca">
+                    <img class="small-img" src="assets/images/philreca/logo.png" alt="Philreca">
+                    
                 </div>
             </div>
             <!-- about-right end -->

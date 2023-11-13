@@ -50,7 +50,7 @@
             </div>
         </div>
         <div class="header-main-one bg-white">
-            <div class="container" style="width:100%;">
+            <div class="header-container" style="width:100%;">
                 <div class="row">
                     <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2">
                         <div class="thumbnail">

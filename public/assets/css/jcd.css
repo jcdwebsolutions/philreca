@@ -14,7 +14,18 @@ li.has-droupdown{
     margin-left: 0px !important;
 }
 
-@media only screen and (min-width: 1400px){
-.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-    max-width: 1487px;
+.header-container{
+    max-width: 1382px;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.about-one-thumbnail .small-img{
+    position: absolute;
+    left: -6%;
+    top: -5%;
+    animation: jump-1 10s linear infinite;
+    width: 50%;
 }

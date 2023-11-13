@@ -44,9 +44,9 @@
                 shortSwipes: false,
                 longSwipes: false,
                 effect: 'fade',
-                speed:500,
+                speed:200,
                 autoplay: {
-                    delay: 4000,
+                    delay: 5000,
                 },                
               });
           });
