@@ -29,3 +29,7 @@ li.has-droupdown{
     animation: jump-1 10s linear infinite;
     width: 50%;
 }
+
+.jcd-primary-color{
+    color: var(--color-primary);
+}

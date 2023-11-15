@@ -109,29 +109,35 @@
                                     </li>
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="#">Allied Organization</a>
-                                        <ul class="submenu">
-                                            <li><a href="#">AIEC</a></li>
-                                            <li><a href="#">AMAPHI</a></li>
-                                            <li><a href="#">AMRECO</a></li>
-                                            <li><a href="#">AMRECO PSAGCOR</a></li>
-                                            <li><a href="#">AVER</a></li>
-                                            <li><a href="#">CLECA FLAG</a></li>
-                                            <li><a href="#">ECCOWPA</a></li>
-                                            <li><a href="#">FIMAP</a></li>
-                                            <li><a href="#">HRECA</a></li>
-                                            <li><a href="#">LEXICON</a></li>
-                                            <li><a href="#">LOGICT</a></li>
-                                            <li><a href="#">NAGMEC</a></li>
-                                            <li><a href="#">OECNF</a></li>
-                                            <li><a href="#">PECACORP</a></li>
-                                            <li><a href="#">PECARES</a></li>
-                                            <li><a href="#">PECASEO</a></li>
-                                            <li><a href="#">PHABDREC</a></li>
-                                            <li><a href="#">PHILAECIA</a></li>
-                                            <li><a href="#">PHILAIM</a></li>
-                                            <li><a href="#">PHILATMEC</a></li>
-                                            <li><a href="#">PHILFECO</a></li>
-                                            <li><a href="#">ULAT</a></li>
+                                        <ul class="submenu menu-link">
+                                            <li class="menu-item">
+                                                <ul>
+                                                    <li><a href="#">AIEC</a></li>
+                                                    <li><a href="#">AMAPHI</a></li>
+                                                    <li><a href="#">AMRECO</a></li>
+                                                    <li><a href="#">AMRECO PSAGCOR</a></li>
+                                                    <li><a href="#">AVER</a></li>
+                                                    <li><a href="#">CLECA FLAG</a></li>
+                                                    <li><a href="#">ECCOWPA</a></li>
+                                                    <li><a href="#">FIMAP</a></li>
+                                                    <li><a href="#">HRECA</a></li>
+                                                    <li><a href="#">LEXICON</a></li>
+                                                    <li><a href="#">LOGICT</a></li>
+                                                </ul>
+                                            <li class="menu-item">
+                                                <ul>
+                                                    <li><a href="#">NAGMEC</a></li>
+                                                    <li><a href="#">OECNF</a></li>
+                                                    <li><a href="#">PECACORP</a></li>
+                                                    <li><a href="#">PECARES</a></li>
+                                                    <li><a href="#">PECASEO</a></li>
+                                                    <li><a href="#">PHABDREC</a></li>
+                                                    <li><a href="#">PHILAECIA</a></li>
+                                                    <li><a href="#">PHILAIM</a></li>
+                                                    <li><a href="#">PHILATMEC</a></li>
+                                                    <li><a href="#">PHILFECO</a></li>
+                                                    <li><a href="#">ULAT</a></li>
+                                                </ul>
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
@@ -165,7 +171,7 @@
                                             <li><a href="#">PHILRECA AGMM</a></li>
                                         </ul>
                                     </li>
-                                    <li ><a href="#">News and Updates
+                                    <li><a href="#">News and Updates
                                 </ul>
                             </nav>
                             <!-- <div class="button-area">

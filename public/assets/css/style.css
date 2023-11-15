@@ -18043,6 +18043,14 @@ button.menu.rts-btn.btn-primary-3-menu:hover .menu-light {
   background-image: url(../images/philreca/home/banner/3.jpg);
 }
 
+.banner-one .swiper-wrapper .swiper-slide.four {
+  background-image: url(../images/philreca/home/banner/4.jpg);
+}
+
+.banner-one .swiper-wrapper .swiper-slide.five {
+  background-image: url(../images/philreca/home/banner/5.jpg);
+}
+
 .offwrap {
   cursor: url(../images/banner/shape/close.png), auto;
   width: 100%;
@@ -24265,7 +24273,7 @@ header.header-home-nine {
 
 .counter-bg {
   background-image: url(../images/counterup/bg-01.jpg);
-  height: 762px;
+  /* height: 762px; */
   background-size: cover;
   background-repeat: no-repeat;
 }
