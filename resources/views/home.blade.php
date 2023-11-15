@@ -63,9 +63,12 @@
                         The Philippine Rural Electric Cooperatives Association, Inc. or PHILRECA is the national organization of all the Electric Cooperatives and EC Allied Organizations in the country. For over four decades, we have advocated to empower the Electric Cooperatives as they continue their pursuit towards rural electrification while ensuring the quality, reliability, and global competitiveness of the Electric Cooperatives.
                     </p>
                     <p class="disc">
-                    The Association is committed to providing support and assistance to its members by spearheading policy developments on the EC sector, representation to the government and other energy government agencies, facilitating capacity-building trainings, webinars, and conventions, and strengthening relations with energy stakeholders.
+                        The Association is committed to providing support and assistance to its members by spearheading policy developments on the EC sector, representation to the government and other energy government agencies, facilitating capacity-building trainings, webinars, and conventions, and strengthening relations with energy stakeholders.
                     </p>
-                    
+                    <p class="disc">
+                        With the new industry developments and challenges, PHILRECA endeavors to continue protecting the rights and interests of its member-Electric Cooperatives, their member-consumer-owners, and EC Allied Organizations.
+                    </p>
+
 
 
                 </div>
@@ -128,7 +131,7 @@
                 <div class="single-counter pl--10 justify-content-end four">
                     <img src="assets/images/counterup/icon/04.svg" alt="Business_counter">
                     <div class="counter-details">
-                        <h2 class="title happy"><span class="counter animated fadeInDownBig">30</span></h2>
+                        <h2 class="title happy"><span class="counter animated fadeInDownBig">30000</span></h2>
                         <p class="disc">Clients</p>
                     </div>
                 </div>
@@ -142,16 +145,46 @@
 <!-- rts blog list area -->
 <div class="rts-blog-list-area rts-section-gap">
     <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="title-area ">
-                    <h2 class="title">Latest News</h2>
-                </div>
-            </div>
-        </div>
+
         <div class="row g-5">
             <!-- rts blog post area -->
-            <div class="col-xl-8 col-md-12 col-sm-12 col-12">
+            <div class="col-xl-7 col-md-12 col-sm-12 col-12">
+                <!-- Press Release -->
+            <div class="row">
+                    <div class="col-12">
+                        <div class="title-area ">
+                            <h2 class="title">Latest Press Release</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-single-post-listing">
+                    <div class="thumbnail">
+                        <img src="assets/images/philreca/home/press_release/1.jpg" alt="Business-Blog">
+                    </div>
+                    <div class="blog-listing-content">
+                        <div class="user-info">
+                            <!-- single info -->
+                            <div class="single">
+                                <i class="far fa-clock"></i>
+                                <span>15 Sept, 2023</span>
+                            </div>
+                            <!-- single infoe end -->
+                        </div>
+                        <a class="blog-title" href="blog-details.html">
+                            <h3 class="title">PHILRECA supports bill seeking to grant lineworkers mandatory insurance coverage</h3>
+                        </a>
+                        <a class="rts-btn btn-primary" target="_blank" href="#">Read details</a>
+                    </div>
+                </div>
+
+                <!-- Latest News -->
+                <div class="row">
+                    <div class="col-12">
+                        <div class="title-area ">
+                            <h2 class="title">Latest News</h2>
+                        </div>
+                    </div>
+                </div>
                 <!-- single post -->
                 <div class="blog-single-post-listing">
                     <div class="thumbnail">
@@ -213,50 +246,15 @@
                 <!-- single post End-->
 
             </div>
+
             <!-- rts-blog post end area -->
             <!--rts blog wized area -->
-            <div class="col-xl-4 col-md-12 col-sm-12 col-12 mt_lg--60">
-                <!-- single wized start -->
-                <div class="rts-single-wized Categories">
-                    <div class="wized-header">
-                        <h5 class="title">
-                            Categories
-                        </h5>
-                    </div>
-                    <div class="wized-body">
-                        <!-- single categoris -->
-                        <ul class="single-categories">
-                            <li><a href="#">Business Solution <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <!-- single categoris End -->
-                        <!-- single categoris -->
-                        <ul class="single-categories">
-                            <li><a href="#">Solution Model<i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <!-- single categoris End -->
-                        <!-- single categoris -->
-                        <ul class="single-categories">
-                            <li><a href="#">More Business <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <!-- single categoris End -->
-                        <!-- single categoris -->
-                        <ul class="single-categories">
-                            <li><a href="#">Finbiz Solution <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <!-- single categoris End -->
-                        <!-- single categoris -->
-                        <ul class="single-categories">
-                            <li><a href="#">Consulting Busiuness<i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <!-- single categoris End -->
-                    </div>
-                </div>
-                <!-- single wized End -->
-                <!-- single wized start -->
+            <div class="col-xl-5 col-md-12 col-sm-12 col-12 mt_lg--60">
+                <!-- Upcoming Events -->
                 <div class="rts-single-wized Recent-post">
                     <div class="wized-header">
                         <h5 class="title">
-                            Recent Posts
+                            Upcoming Events
                         </h5>
                     </div>
                     <div class="wized-body">
@@ -268,10 +266,10 @@
                             <div class="content-area">
                                 <div class="user">
                                     <i class="fal fa-clock"></i>
-                                    <span>15 Jan, 2023</span>
+                                    <span>13 Oct, 2023</span>
                                 </div>
                                 <a class="post-title" href="#">
-                                    <h6 class="title">We would love to share a similar experience</h6>
+                                    <h6 class="title">9AM -12NN – TAKE IT EASY, MGA KASAMA SA EC</h6>
                                 </a>
                             </div>
                         </div>
@@ -279,15 +277,15 @@
                         <!-- recent-post -->
                         <div class="recent-post-single">
                             <div class="thumbnail">
-                                <a href="#"><img src="assets/images/blog/details/recent-post/02.png" alt="Blog_post"></a>
+                                <a href="#"><img src="assets/images/blog/details/recent-post/01.png" alt="Blog_post"></a>
                             </div>
                             <div class="content-area">
                                 <div class="user">
                                     <i class="fal fa-clock"></i>
-                                    <span>15 Jan, 2023</span>
+                                    <span>27 Oct, 2023</span>
                                 </div>
                                 <a class="post-title" href="#">
-                                    <h6 class="title">We would love to share a similar experience</h6>
+                                    <h6 class="title">POWER RUN! (NATIONWIDE EC-MCOs SOLIDATRITY RUN)</h6>
                                 </a>
                             </div>
                         </div>
@@ -295,15 +293,15 @@
                         <!-- recent-post -->
                         <div class="recent-post-single">
                             <div class="thumbnail">
-                                <a href="#"><img src="assets/images/blog/details/recent-post/03.png" alt="Blog_post"></a>
+                                <a href="#"><img src="assets/images/blog/details/recent-post/01.png" alt="Blog_post"></a>
                             </div>
                             <div class="content-area">
                                 <div class="user">
                                     <i class="fal fa-clock"></i>
-                                    <span>15 Jan, 2023</span>
+                                    <span>Oct, 2023</span>
                                 </div>
                                 <a class="post-title" href="#">
-                                    <h6 class="title">We would love to share a similar experience</h6>
+                                    <h6 class="title">NATIONAL COOPERATIVE MONTH</h6>
                                 </a>
                             </div>
                         </div>
@@ -311,77 +309,53 @@
                         <!-- recent-post -->
                         <div class="recent-post-single">
                             <div class="thumbnail">
-                                <a href="#"><img src="assets/images/blog/details/recent-post/04.png" alt="Blog_post"></a>
+                                <a href="#"><img src="assets/images/blog/details/recent-post/01.png" alt="Blog_post"></a>
                             </div>
                             <div class="content-area">
                                 <div class="user">
                                     <i class="fal fa-clock"></i>
-                                    <span>15 Jan, 2023</span>
+                                    <span>Oct, 2023</span>
                                 </div>
                                 <a class="post-title" href="#">
-                                    <h6 class="title">We would love to share a similar experience</h6>
+                                    <h6 class="title">MENTAL HEALTH AWARENESS MONTH</h6>
                                 </a>
                             </div>
                         </div>
                         <!-- recent-post End -->
                     </div>
                 </div>
-                <!-- single wized End -->
-                <!-- single wized start -->
+                
+
+                <!-- Advisories -->
                 <div class="rts-single-wized Recent-post">
                     <div class="wized-header">
                         <h5 class="title">
-                            Recent Posts
+                            Latest Advisories
                         </h5>
                     </div>
                     <div class="wized-body">
-                        <div class="gallery-inner">
-                            <div class="row-1 single-row">
-                                <a href="#"><img src="assets/images/blog/details/gallery/01.png" alt="Gallery"></a>
-                                <a href="#"><img src="assets/images/blog/details/gallery/02.png" alt="Gallery"></a>
-                                <a href="#"><img src="assets/images/blog/details/gallery/03.png" alt="Gallery"></a>
+                        <!-- recent-post -->
+                        <div class="recent-post-single">
+                            <div class="thumbnail">
+                                <a href="#"><img src="assets/images/blog/details/recent-post/01.png" alt="Blog_post"></a>
                             </div>
-                            <div class="row-2 single-row">
-                                <a href="#"><img src="assets/images/blog/details/gallery/04.png" alt="Gallery"></a>
-                                <a href="#"><img src="assets/images/blog/details/gallery/05.png" alt="Gallery"></a>
-                                <a href="#"><img src="assets/images/blog/details/gallery/06.png" alt="Gallery"></a>
+                            <div class="content-area">
+                                <div class="user">
+                                    <i class="fal fa-clock"></i>
+                                    <span>Nov, 2023</span>
+                                </div>
+                                <a class="post-title" href="#">
+                                    <h6 class="title">NO ADVISORIES</h6>
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- single wized End -->
-                <!-- single wized start -->
-                <div class="rts-single-wized">
-                    <div class="wized-header">
-                        <h5 class="title">
-                            Popular Tags
-                        </h5>
-                    </div>
-                    <div class="wized-body">
-                        <div class="tags-wrapper">
-                            <a href="#">Services</a>
-                            <a href="#">Business</a>
-                            <a href="#">Growth</a>
-                            <a href="#">Finance</a>
-                            <a href="#">UI/UX Design</a>
-                            <a href="#">Solution</a>
-                            <a href="#">Speed</a>
-                            <a href="#">Strategy</a>
-                            <a href="#">Technology</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- single wized End -->
+
                 <!-- single wized start -->
                 <div class="rts-single-wized contact">
-                    <div class="wized-header">
-                        <a href="#"><img src="assets/images/logo/logo-2.svg" alt="Business_logo"></a>
-                    </div>
-                    <div class="wized-body">
-                        <h5 class="title">Need Help? We Are Here
-                            To Help You</h5>
-                        <a class="rts-btn btn-primary" href="contactus.html">Contact Us</a>
-                    </div>
+                    <h5 class="jcd-color-white">Facebook Page Updates</h5>
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPHILRECA.INC&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1038819552825368" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                 </div>
                 <!-- single wized End -->
             </div>
@@ -389,27 +363,28 @@
         </div>
     </div>
 </div>
-<!-- rts blog list area End -->
 
 <!-- start client area -->
-<div class="rts-client-area ptb--100 client-bg">
+<div class="rts-client-area ptb--100 bg-footer-one">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="title-area blog-three text-center">
-                    <h2 class="title">Energy Agencies</h2>
+                    <h2 class="jcd-color-white">Energy Agencies</h2>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <div class="client-two-wrapper">
-                    <img src="assets/images/client/01.png" alt="Business_client">
-                    <img src="assets/images/client/02.png" alt="Business_client">
-                    <img src="assets/images/client/03.png" alt="Business_client">
-                    <img src="assets/images/client/04.png" alt="Business_client">
-                    <img src="assets/images/client/05.png" alt="Business_client">
-                    <img src="assets/images/client/06.png" alt="Business_client">
+                <div class="client-wrapper-one">
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/ERC.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/NPC.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/PNOC.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/PSALM.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/DOE.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/WESM.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/TRANCO.jpg" alt="Philreca"></a>
+                    <a href=""><img src="assets/images/philreca/home/energy_agencies/NGCP.jpg" alt="Philreca"></a>   
                 </div>
             </div>
         </div>

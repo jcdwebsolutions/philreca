@@ -30,6 +30,18 @@ li.has-droupdown{
     width: 50%;
 }
 
+.rts-single-wized.contact {
+    padding: 10px;
+}
+
 .jcd-primary-color{
     color: var(--color-primary);
+}
+
+.jcd-color-white{
+    color: #fff;
+}
+
+.jcd-bg-dark{
+    background-color: #0E1422;
 }

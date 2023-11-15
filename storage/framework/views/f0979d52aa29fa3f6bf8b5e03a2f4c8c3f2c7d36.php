@@ -63,7 +63,7 @@
                         <div class="main-header">
                             <nav class="nav-main mainmenu-nav d-none d-xl-block">
                                 <ul class="mainmenu">
-                                    <li><a class="" href="#">Home</a></li>
+                                    <li><a class="nav-link" href="<?php echo e(url('home')); ?>">Home</a></li>
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="#">About Us</a>
                                         <ul class="submenu menu-link3">

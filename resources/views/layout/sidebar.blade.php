@@ -2,13 +2,13 @@
     <button class="close-icon-menu"><i class="far fa-times"></i></button>
     <!-- inner menu area desktop start -->
     <div class="rts-sidebar-menu-desktop">
-        <a class="logo-1" href="index.html"><img class="logo" src="assets/images/logo/logo-1.svg" alt="finbiz_logo"></a>
-        <a class="logo-2" href="index.html"><img class="logo" src="assets/images/logo/logo-4.svg" alt="finbiz_logo"></a>
-        <a class="logo-3" href="index.html"><img class="logo" src="assets/images/logo/logo-3.svg" alt="finbiz_logo"></a>
-        <a class="logo-4" href="index.html"><img class="logo" src="assets/images/logo/logo-5.svg" alt="finbiz_logo"></a>
+        <a class="logo-1" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
+        <a class="logo-2" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
+        <a class="logo-3" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
+        <a class="logo-4" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
         <div class="body d-none d-xl-block">
-            <p class="disc">
-                We must explain to you how all seds this mistakens idea denouncing pleasures and praising account.
+            <p class="disc jcd-primary-color">
+                "United We Stand, We Stand United"
             </p>
             <div class="get-in-touch">
                 <!-- title -->
@@ -18,7 +18,7 @@
                     <!-- single -->
                     <div class="single">
                         <i class="fas fa-phone-alt"></i>
-                        <a href="#">+8801234566789</a>
+                        <a href="#">8967-1580 / 0917-850-6830 / 0939-905-2206</a>
                     </div>
                     <!-- single ENd -->
                     <!-- single -->
