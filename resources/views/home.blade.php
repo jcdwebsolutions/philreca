@@ -47,25 +47,22 @@
 <!-- banner blank space area end -->
 
 <!-- rts about us section start -->
-<div class="rts-about-area rts-section-gap bg-about-sm-shape">
+<div class="rts-about-area rts-section-gap jcd-bg">
     <div class="container">
         <div class="row g-5 align-items-center">
             <!-- about left -->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
                 <div class="rts-title-area">
-                    <p class="pre-title">
-                        What is
-                    </p>
-                    <h2 class="title">Philreca?</h2>
+                    <h2 class="title">What is Philreca?</h2>
                 </div>
                 <div class="about-inner">
-                    <p class="disc">
+                    <p class="disc jcd-text-justify">
                         The Philippine Rural Electric Cooperatives Association, Inc. or PHILRECA is the national organization of all the Electric Cooperatives and EC Allied Organizations in the country. For over four decades, we have advocated to empower the Electric Cooperatives as they continue their pursuit towards rural electrification while ensuring the quality, reliability, and global competitiveness of the Electric Cooperatives.
                     </p>
-                    <p class="disc">
+                    <p class="disc jcd-text-justify">
                         The Association is committed to providing support and assistance to its members by spearheading policy developments on the EC sector, representation to the government and other energy government agencies, facilitating capacity-building trainings, webinars, and conventions, and strengthening relations with energy stakeholders.
                     </p>
-                    <p class="disc">
+                    <p class="disc jcd-text-justify">
                         With the new industry developments and challenges, PHILRECA endeavors to continue protecting the rights and interests of its member-Electric Cooperatives, their member-consumer-owners, and EC Allied Organizations.
                     </p>
 
@@ -77,10 +74,13 @@
 
             <!-- about-right Start-->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-md-1 order-sm-1 order-1">
-                <div class="about-one-thumbnail">
-                    <img src="assets/images/philreca/home/ec_philreca_logo.png" alt="Philreca">
-                    <img class="small-img" src="assets/images/philreca/logo.png" alt="Philreca">
-
+                <div class="about-image-v-inner">
+                    <div class="image-area jcd-video">
+                        <video width="100%" height="100%" controls autoplay loop>
+                            <source src="assets/images/philreca/home/PHILRECA.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
                 </div>
             </div>
             <!-- about-right end -->
@@ -98,41 +98,39 @@
                 <div class="single-counter">
                     <img src="assets/images/counterup/icon/01.svg" alt="Business_counter">
                     <div class="counter-details">
-                        <h2 class="title"><span class="counter animated fadeInDownBig">16</span></h2>
-                        <p class="disc">Electric Cooperatives</p>
+                        <h2 class="title jcd-ec"><span class="counter animated fadeInDownBig">121</span></h2>
+                        <p class="disc">Electric Cooperatives <br></p>
                     </div>
                 </div>
             </div>
             <!-- counter up area -->
             <!-- counter up area -->
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="single-counter pl--10 justify-content-center two pl--30">
+                <div class="single-counter justify-content-center two pl--30">
                     <img src="assets/images/counterup/icon/02.svg" alt="Business_counter">
                     <div class="counter-details">
-                        <h2 class="title"><span class="counter animated fadeInDownBig">22</span></h2>
+                        <h2 class="title jcd-ao"><span class="counter animated fadeInDownBig">22</span></h2>
                         <p class="disc">Allied Organizations</p>
                     </div>
                 </div>
             </div>
             <!-- counter up area -->
-            <!-- counter up area -->
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="single-counter pl--10 justify-content-center three pl--50">
-                    <img src="assets/images/counterup/icon/03.svg" alt="Business_counter">
+                <div class="single-counter  justify-content-end four">
+                    <img src="assets/images/counterup/icon/04.svg" alt="Business_counter">
                     <div class="counter-details">
-                        <h2 class="title"><span class="counter animated fadeInDownBig">567</span></h2>
-                        <p class="disc">Experts</p>
+                        <h2 class="title jcd-mco"><span class="counter animated fadeInDownBig">13</span></h2>
+                        <p class="disc">Member-Consumer-Owners</p>
                     </div>
                 </div>
             </div>
             <!-- counter up area -->
-            <!-- counter up area -->
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="single-counter pl--10 justify-content-end four">
-                    <img src="assets/images/counterup/icon/04.svg" alt="Business_counter">
+                <div class="single-counter justify-content-center three">
+                    <img src="assets/images/counterup/icon/03.svg" alt="Business_counter">
                     <div class="counter-details">
-                        <h2 class="title happy"><span class="counter animated fadeInDownBig">30000</span></h2>
-                        <p class="disc">Clients</p>
+                        <h2 class="title jcd-experts"><span class="counter animated fadeInDownBig">10</span></h2>
+                        <p class="disc">Our Experts <br></p>
                     </div>
                 </div>
             </div>
@@ -150,10 +148,10 @@
             <!-- rts blog post area -->
             <div class="col-xl-7 col-md-12 col-sm-12 col-12">
                 <!-- Press Release -->
-            <div class="row">
+                <div class="row">
                     <div class="col-12">
                         <div class="title-area ">
-                            <h2 class="title">Latest Press Release</h2>
+                            <h2 class="title text-animate">Latest Press Release</h2>
                         </div>
                     </div>
                 </div>
@@ -324,7 +322,7 @@
                         <!-- recent-post End -->
                     </div>
                 </div>
-                
+
 
                 <!-- Advisories -->
                 <div class="rts-single-wized Recent-post">
@@ -377,14 +375,14 @@
         <div class="row">
             <div class="col-12">
                 <div class="client-wrapper-one">
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/ERC.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/NPC.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/PNOC.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/PSALM.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/DOE.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/WESM.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/TRANCO.jpg" alt="Philreca"></a>
-                    <a href=""><img src="assets/images/philreca/home/energy_agencies/NGCP.jpg" alt="Philreca"></a>   
+                    <a target="_blank" href="https://www.erc.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/ERC.png" alt="Philreca"></a>
+                    <a target="_blank" href="http://www.napocor.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/NPC.png" alt="Philreca"></a>
+                    <a target="_blank" href="https://www.pnoc.com.ph/"><img src="assets/images/philreca/home/energy_agencies/PNOC.png" alt="Philreca"></a>
+                    <a target="_blank" href="https://www.psalm.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/PSALM.jpg" alt="Philreca"></a>
+                    <a target="_blank" href="https://www.doe.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/DOE.png" alt="Philreca"></a>
+                    <a target="_blank" href="https://www.wesm.ph/"><img src="assets/images/philreca/home/energy_agencies/WESM.png" alt="Philreca"></a>
+                    <a target="_blank" href=""><img src="assets/images/philreca/home/energy_agencies/TRANSCO.png" alt="Philreca"></a>
+                    <a target="_blank" href="https://www.ngcp.ph/"><img src="assets/images/philreca/home/energy_agencies/NGCP.png" alt="Philreca"></a>
                 </div>
             </div>
         </div>

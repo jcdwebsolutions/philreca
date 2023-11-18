@@ -8,11 +8,11 @@
                     </a>
                     <p class="disc jcd-primary-color">"United We Stand, We Stand United"</p>
                     <ul class="social-three-wrapper">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fab fa-skype"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/PHILRECA.INC"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank" href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a target="_blank" href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="#"><i class="fab fa-skype"></i></a></li>
                     </ul>
                 </div>
             </div>

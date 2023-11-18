@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Philreca">
     <title>{{ config('app.name') }}</title>
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/philreca/logo.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/philreca/web_logo.png') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/swiper.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/fontawesome-5.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/animate.min.css') }}">
@@ -39,10 +39,10 @@
                                 <li><a href="#">Contact Nos.: 8967-1580/0917-850-6830/0939-905-2206</a></li>
                             </ul>
                             <ul class="social-wrapper-one">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a class="mr--0" href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/PHILRECA.INC"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank" href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a target="_blank" href="#"><i class="fab fa-instagram"></i></a></li>
+                                <li><a target="_blank" class="mr--0" href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>
