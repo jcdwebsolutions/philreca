@@ -139,7 +139,7 @@
 <!-- rts-counter up area end -->
 
 <!-- rts blog list area -->
-<div class="rts-blog-list-area rts-section-gap">
+<div class="rts-blog-list-area rts-section-gap jcd-bg">
     <div class="container">
 
         <div class="row g-5">
