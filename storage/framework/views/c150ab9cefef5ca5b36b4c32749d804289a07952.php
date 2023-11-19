@@ -1,4 +1,4 @@
-<div class="rts-footer-area footer-three rts-section-gapTop footer-bg-2">
+<div class="rts-footer-area footer-three rts-section-gapTop footer-bg-2 jcd-bg">
     <div class="container pb--100 pb_sm--40">
         <div class="row g-5">
             <div class="col-xl-3 col-lg-6">
