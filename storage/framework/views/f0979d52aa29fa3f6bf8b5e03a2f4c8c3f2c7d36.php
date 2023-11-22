@@ -65,9 +65,9 @@
                                 <ul class="mainmenu">
                                     <li><a class="nav-link" href="<?php echo e(url('home')); ?>">Home</a></li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">About Us</a>
+                                        <a class="nav-link" href="<?php echo e(url('about_us')); ?>">About Us</a>
                                         <ul class="submenu menu-link3">
-                                            <li><a class="" href="#">What is Philreca?</a></li>
+                                            <li><a class="" href="#what_is_philreca">What is Philreca?</a></li>
                                             <li><a href="#">Our Team</a></li>
                                         </ul>
                                     </li>

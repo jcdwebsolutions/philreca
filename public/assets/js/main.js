@@ -1154,18 +1154,19 @@
         
         // pne page scroll top
         smoothScroll: function (e) {
+          
           $(document).on('click', '.onepage a[href^="#"]', function (event) {
             event.preventDefault();
-        
+            
             $('html, body').animate({
-                scrollTop: $($.attr(this, 'href')).offset().top
+                scrollTop: $($.attr(this, 'href')).offset().top-200
             }, 2000);
           });
           $(document).on('click', 'a.scroll-down', function (event) {
             event.preventDefault();
-        
+            
             $('html, body').animate({
-                scrollTop: $($.attr(this, 'href')).offset().top
+                scrollTop: $($.attr(this, 'href')).offset().top-200
             }, 2000);
           });
         },

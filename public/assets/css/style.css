@@ -16740,7 +16740,7 @@ body.home-eleven #menu-btn:hover {
 }
 
 .breadcrumb-bg {
-  background-image: url(../images/breadcrumb/01.jpg);
+  background-image: url(../images/philreca/breadcrumb.png);
 }
 
 .rts-breadcrumb-area {
@@ -30351,7 +30351,7 @@ header.header-home-nine {
 .home-yellow .faq-two-inner .title-area-faq span.sm-title span,
 .home-yellow .faq-two-inner .faq-accordion-area .accordion .accordion-item .accordion-header button span,
 .home-yellow .faq-two-inner .faq-accordion-area .accordion .accordion-item .accordion-header button::after {
-  color: var(--color-primary-3);
+  color: var(--color-primary);
 }
 
 .rts-contact-area.contact-one {
