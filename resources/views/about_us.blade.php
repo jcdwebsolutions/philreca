@@ -148,7 +148,7 @@
                     </p>
                 </div>
             </div>
-            <div class="rts-service-area pb--200">
+            <div class="rts-service-area">
                 <div class="container">
                     <div class="row g-5 service padding-controler">
                         <div class="col-xl-4 col-md-6 col-sm-12 col-12 pb_md--100">
@@ -314,6 +314,283 @@
                     <img src="assets/images/faq/02.png" alt="">
                 </div>
             </div> -->
+        </div>
+    </div>
+</div>
+
+<div class="rts-about-area rts-section-gap jcd-bg" id="">
+    <div class="container">
+        <div class="row g-5">
+            <!-- about left -->
+            <div class="col-lg-8 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
+                <div class="rts-title-area">
+                    <h2 class="title">Mision </h2>
+                </div>
+                <div class="about-success-wrapper">
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> To empower member-electric cooperatives and allied organizations through the advancement of policy advocacy;
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> To accelerate the improvement and development of each member-ECs institutional capacity;
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> To ensure harmonious relationship between and among electric cooperatives, allied organizations, government regulatory agencies, and other stakeholders; and
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> To be a leading provider of energy- and electrification-related data for public and private consumption.
+                    </p>
+                </div>
+
+                <div class="rts-title-area pt--50">
+                    <h2 class="title">Vision </h2>
+                </div>
+                <div class="about-inner">
+                    <p class="disc jcd-text-justify">
+                        A pro-active, dynamic, and resilient PHILRECA that is an advocate of the rural electrification program and sustainable development through united allied organizations, globally competitive Electric Cooperatives, and empowered member-consumer-owners.
+                    </p>
+                </div>
+                <div class="rts-title-area">
+                    <h2 class="title">7-point Agenda </h2>
+                </div>
+                <div class="about-success-wrapper">
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Rural Electrification as Key to Sustainable Rural Development
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Empowering the Member-Consumer-Owners of Electric Cooperatives
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Vanguard and Defender of Electric Cooperatives’ Sustainability and Existence
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Frontliners in Policy Advocacies for Rural Electrification
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Institutionalize the Networking and Linkages between the EC-MCO Movement and Pertinent Government and Non-Government Organizations/Agencies
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Ensure that MCOs are Properly Informed of Issues that Matter to Them
+                    </p>
+                    <p class="disc jcd-text-justify single">
+                        <i class="far fa-check"></i> Ensure that PHILRECA will be a Powerful and a Force to Reckon as a Movement of Electric Consumers in General, and Rural Energy Consumers in Particular
+                    </p>
+                </div>
+            </div>
+            <!-- about right -->
+
+            <!-- about-right Start-->
+            <div class="col-lg-4 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
+                <div class="rts-single-wized Categories">
+                    <div class="wized-header">
+                        <h5 class="title">
+                            Core Values
+                        </h5>
+                    </div>
+                    <div class="wized-body">
+
+                        <ul class="single-categories">
+                            <li><a href="#">C - ommitment </a></li>
+                        </ul>
+
+                        <ul class="single-categories">
+                            <li><a href="#">I - ntegrity</a></li>
+                        </ul>
+
+                        <ul class="single-categories">
+                            <li><a href="#">R - esponsibility </a></li>
+                        </ul>
+
+                        <ul class="single-categories">
+                            <li><a href="#">C - redibility </a></li>
+                        </ul>
+
+                        <ul class="single-categories">
+                            <li><a href="#">U - nity</a></li>
+                        </ul>
+                        <ul class="single-categories">
+                            <li><a href="#">I - ndustry</a></li>
+                        </ul>
+                        <ul class="single-categories">
+                            <li><a href="#">T - ransaparency</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <!-- about-right end -->
+        </div>
+    </div>
+</div>
+
+<div class="rts-team-area style-3 rts-section-gap" id="our_team">
+    <div class="container">
+        <div class="row g-5 mt--20 mt_md--30 mt_sm--0">
+            <div class="faq-two-inner">
+                <div class="title-area-faq">
+                    <h2 class="title">Our Team
+                    </h2>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
+                        <div class="social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Name</h5>
+                            <span>Position</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
         </div>
     </div>
 </div>

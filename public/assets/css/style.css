@@ -356,7 +356,7 @@ p {
   font-size: var(--font-size-b2);
   line-height: var(--line-height-b2);
   font-weight: var(--p-regular);
-  color: var(--color-body);
+  color: #000;
   margin: 0 0 40px;
 }
 @media only screen and (max-width: 767px) {
@@ -21665,6 +21665,87 @@ header.header-home-nine {
 .service-two-inner .thumbnail.nine::after {
   content: "1995";
 }
+.service-two-inner .thumbnail.ten::after {
+  content: "1996";
+}
+.service-two-inner .thumbnail.eleven::after {
+  content: "1998";
+}
+.service-two-inner .thumbnail.twelve::after {
+  content: "1999";
+}
+.service-two-inner .thumbnail.thirteen::after {
+  content: "2000";
+}
+.service-two-inner .thumbnail.fourteen::after {
+  content: "2001";
+}
+.service-two-inner .thumbnail.fifteen::after {
+  content: "2002";
+}
+.service-two-inner .thumbnail.sixteen::after {
+  content: "2003";
+}
+.service-two-inner .thumbnail.seventeen::after {
+  content: "2004";
+}
+.service-two-inner .thumbnail.eighteen::after {
+  content: "2005";
+}
+.service-two-inner .thumbnail.nineteen::after {
+  content: "2006";
+}
+.service-two-inner .thumbnail.twenty::after {
+  content: "2007";
+}
+.service-two-inner .thumbnail.twentyone::after {
+  content: "2008";
+}
+.service-two-inner .thumbnail.twentytwo::after {
+  content: "2009";
+}
+.service-two-inner .thumbnail.twentythree::after {
+  content: "2010";
+}
+.service-two-inner .thumbnail.twentyfour::after {
+  content: "2011";
+}
+.service-two-inner .thumbnail.twentyfive::after {
+  content: "2012";
+}
+.service-two-inner .thumbnail.twentysix::after {
+  content: "2013";
+}
+.service-two-inner .thumbnail.twentyseven::after {
+  content: "2014";
+}
+.service-two-inner .thumbnail.twentyeight::after {
+  content: "2015";
+}
+.service-two-inner .thumbnail.twentynine::after {
+  content: "2016";
+}
+.service-two-inner .thumbnail.thirty::after {
+  content: "2017";
+}
+.service-two-inner .thumbnail.thirtyone::after {
+  content: "2018";
+}
+.service-two-inner .thumbnail.thirtytwo::after {
+  content: "2019";
+}
+.service-two-inner .thumbnail.thirtythree::after {
+  content: "2020";
+}
+.service-two-inner .thumbnail.thirtyfour::after {
+  content: "2021";
+}
+.service-two-inner .thumbnail.thirtyfive::after {
+  content: "2022";
+}
+.service-two-inner .thumbnail.thirtysix::after {
+  content: "2023";
+}
 .service-two-inner .thumbnail img {
   width: 100%;
   border-radius: 15px 15px 0 0;
@@ -26178,7 +26259,7 @@ header.header-home-nine {
 }
 
 .rts-team-area.style-3 {
-  background: #f6f6f6;
+  background: #121621;
   padding-top: 70px;
 }
 .rts-team-area.style-3 .team-inner-two {
@@ -28305,8 +28386,8 @@ header.header-home-nine {
   align-items: center;
   justify-content: space-between;
   padding: 15px 25px;
-  background: #fff;
-  color: #5D666F;
+  background: var(--color-primary);
+  color: #000;
   font-weight: 500;
   transition: 0.3s;
   border-radius: 5px;
@@ -28316,9 +28397,9 @@ header.header-home-nine {
   transition: 0.3s;
 }
 .rts-single-wized .single-categories li a:hover {
-  background: var(--color-primary);
+  background: var(--color-white);
   transform: translateY(-5px) scale(1.03);
-  color: var(--color-white);
+  color: var(--color-primary);
 }
 .rts-single-wized .single-categories li a:hover i {
   color: #fff;
@@ -30273,7 +30354,7 @@ header.header-home-nine {
 }
 .faq-two-inner .title-area-faq .title {
   color: #fff;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin-top: 5px;
 }
 .faq-two-inner .faq-accordion-area {
