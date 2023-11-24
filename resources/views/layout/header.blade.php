@@ -67,8 +67,8 @@
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="{{ url('about_us'); }}">About Us</a>
                                         <ul class="submenu menu-link3">
-                                            <li><a class="" href="#what_is_philreca">What is Philreca?</a></li>
-                                            <li><a href="#our_team">Our Team</a></li>
+                                            <li><a class="" href="{{ (Request::segment(1) =='about_us') ? '#what_is_philreca' : url('about_us').'#what_is_philreca' }}">What is Philreca?</a></li>
+                                            <li><a href="{{ (Request::segment(1) =='about_us') ? '#our_team' : url('about_us').'#our_team' }}">Our Team</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
