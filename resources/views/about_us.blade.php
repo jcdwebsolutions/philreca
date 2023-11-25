@@ -431,7 +431,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/janeene_depay-colingan.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/janeene_depay-colingan.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -446,7 +446,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/nercie_g_corpuz.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/nercie_g_corpuz.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -461,7 +461,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/caren_joy_reyes.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/caren_joy_reyes.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -476,7 +476,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/ramsey_m_dela_viña.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/ramsey_m_dela_viña.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -491,7 +491,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/kathleen_b_cayat.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/kathleen_b_cayat.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -506,7 +506,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/no_pic.png" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/no_pic.png" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -521,7 +521,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/edgardo_s_mayor.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/edgardo_s_mayor.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -536,7 +536,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/amor_j_castillo.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/amor_j_castillo.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -551,7 +551,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/irish_marie_c_layas.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/irish_marie_c_layas.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -566,7 +566,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/clarisse_r_santos.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/clarisse_r_santos.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -581,7 +581,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/kenjie_p_fagyan.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/kenjie_p_fagyan.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -596,7 +596,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/our_team/arlence_c_tan.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/arlence_c_tan.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
