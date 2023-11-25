@@ -49,7 +49,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
 :root {
   --color-primary: #DF0A0A;
-  --color-primary-2: #0B4DF5;
+  --color-primary-2: #a81111;
   --color-primary-3: #F64A00;
   --color-primary-4: #5264F3;
   --color-primary-5: #B00F0F;
@@ -15397,7 +15397,7 @@ body.sal-disabled [data-sal|=flip] {
 .main-header .nav-main ul li a {
   padding: 48px 0;
   display: block;
-  color: #1C2539;
+  color: #000;
   font-size: 16px;
   font-weight: 500;
   position: relative;
@@ -16436,7 +16436,7 @@ body.home-eleven #menu-btn:hover {
   content: "\f077" !important;
 }
 .mainmenu li.has-droupdown .submenu {
-  min-width: 270px;
+  /* min-width: 270px; */
   height: auto;
   position: absolute;
   top: 90%;
@@ -16447,7 +16447,7 @@ body.home-eleven #menu-btn:hover {
   text-align: left;
   transition: 0.3s;
   border-radius: 0 0 10px 10px;
-  background-color: var(--color-primary);
+  background-color: var(--color-primary-2);
   border-left: 1px solid #ffffff14;
   border-bottom: 1px solid #ffffff14;
   border-right: 1px solid #ffffff14;
@@ -16493,8 +16493,8 @@ body.home-eleven #menu-btn:hover {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  width: 800px;
-  left: -320px;
+  /* width: 800px; */
+  /* left: -320px; */
 }
 .mainmenu li.has-droupdown .submenu.menu-link::after {
   display: none;
@@ -26297,11 +26297,12 @@ header.header-home-nine {
   color: #0B101C;
 }
 .rts-team-area.style-3 .team-inner-two .inner-content {
-  padding: 30px;
+  padding: 20px;
   text-align: center;
 }
 .rts-team-area.style-3 .team-inner-two .inner-content .header .title {
   margin-bottom: 5px;
+  font-size: medium;
 }
 .rts-team-area.style-3 .team-inner-two .inner-content .header span {
   color: var(--color-primary);

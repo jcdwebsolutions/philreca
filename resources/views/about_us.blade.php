@@ -27,7 +27,7 @@
             <!-- about left -->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
                 <div class="rts-title-area">
-                    <h2 class="title">What is Philreca?</h2>
+                    <h2 class="title jcd-text-uppercase">What is Philreca?</h2>
                 </div>
                 <div class="about-inner">
                     <p class="disc jcd-text-justify">
@@ -49,11 +49,8 @@
             <!-- about-right Start-->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-md-1 order-sm-1 order-1">
                 <div class="about-image-v-inner">
-                    <div class="image-area jcd-video">
-                        <video width="100%" height="100%" controls autoplay loop>
-                            <source src="assets/images/philreca/home/PHILRECA.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                        </video>
+                    <div class="image-area">
+                        <img src="assets/images/philreca/home/philreca.gif" alt="philreca">
                     </div>
                 </div>
             </div>
@@ -424,7 +421,7 @@
 
 <div class="rts-team-area style-3 rts-section-gap" id="our_team">
     <div class="container">
-        <div class="row g-5 mt--20 mt_md--30 mt_sm--0">
+        <div class="row ">
             <div class="faq-two-inner">
                 <div class="title-area-faq">
                     <h2 class="title">Our Team
@@ -434,18 +431,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/janeene_depay-colingan.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Atty. Janeene Depay-Colingan</h5>
+                            <span>Executive Director/General Manager</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -454,18 +446,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/nercie_g_corpuz.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Nercie G. Corpuz</h5>
+                            <span>Administrative Associate</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -474,18 +461,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/caren_joy_reyes.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Caren Joy B. Reyes</h5>
+                            <span>Chief Finance Officer</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -494,18 +476,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/ramsey_m_dela_viña.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Ramsey Dela Viña</h5>
+                            <span>Accounting Associate</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -514,18 +491,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/kathleen_b_cayat.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Kathleen B. Cayat</h5>
+                            <span>Corporate Affairs Manager</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -534,18 +506,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/no_pic.png" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Judy S. Bello</h5>
+                            <span>Driver/Mechanic</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -554,18 +521,13 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/edgardo_s_mayor.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Edgardo S. Mayor</h5>
+                            <span>General Services Officer</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
@@ -574,18 +536,73 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="team-details.html"><img src="assets/images/team/tm/06.jpg" alt=""></a>
-                        <div class="social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/amor_j_castillo.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
                         <div class="header">
-                            <h5 class="title">Name</h5>
-                            <span>Position</span>
+                            <h5 class="title">Amor Castillo</h5>
+                            <span>General Services Associate</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/irish_marie_c_layas.jpg" alt=""></a>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Irish Marie M. Layas</h5>
+                            <span>Multimedia Artist</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/clarisse_r_santos.jpg" alt=""></a>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Clarisse R. Santos</h5>
+                            <span>Research & Development Manager</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/kenjie_p_fagyan.jpg" alt=""></a>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Kenjie P. Fagyan</h5>
+                            <span>Regulatory Compliance Officer</span>
+                        </div>
+                    </div>
+                    <!-- Acquaintance area -->
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                <div class="team-inner-two inner">
+                    <div class="thumbnail">
+                        <a href="#"><img src="assets/images/philreca/about_us/our_team/arlence_c_tan.jpg" alt=""></a>
+                    </div>
+                    <!-- Acquaintance area -->
+                    <div class="inner-content">
+                        <div class="header">
+                            <h5 class="title">Arlene C. Tan</h5>
+                            <span>No defined position in doc</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->

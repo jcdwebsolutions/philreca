@@ -47,7 +47,7 @@ li.has-droupdown {
 }
 
 .jcd-video {
-    border: 2px solid gray;
+    /* border: 2px solid gray; */
 }
 
 .single-counter .counter-details .jcd-ec span::after {
@@ -79,5 +79,9 @@ background: linear-gradient(90deg, rgba(230,84,84,1) 0%, rgba(255,255,255,1) 5%,
 
 .jcd-text-justify{
     text-align: justify;
+}
+
+.jcd-text-uppercase{
+    text-transform: uppercase;
 }
 

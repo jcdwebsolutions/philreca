@@ -53,7 +53,7 @@
             <!-- about left -->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
                 <div class="rts-title-area">
-                    <h2 class="title">What is Philreca?</h2>
+                    <h2 class="title jcd-text-uppercase">What is Philreca?</h2>
                 </div>
                 <div class="about-inner">
                     <p class="disc jcd-text-justify">
@@ -75,11 +75,8 @@
             <!-- about-right Start-->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-md-1 order-sm-1 order-1">
                 <div class="about-image-v-inner">
-                    <div class="image-area jcd-video">
-                        <video width="100%" height="100%" controls autoplay loop>
-                            <source src="assets/images/philreca/home/PHILRECA.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                        </video>
+                    <div class="image-area">
+                        <img src="assets/images/philreca/home/philreca.gif" alt="philreca">
                     </div>
                 </div>
             </div>

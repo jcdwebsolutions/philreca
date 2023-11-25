@@ -63,7 +63,7 @@
                         <div class="main-header">
                             <nav class="nav-main mainmenu-nav d-none d-xl-block">
                                 <ul class="mainmenu">
-                                    <li><a class="nav-link" href="{{url('home')}}">Home</a></li>
+                                    <li><a class="" href="{{url('home')}}">Home</a></li>
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="{{ url('about_us'); }}">About Us</a>
                                         <ul class="submenu menu-link3">
