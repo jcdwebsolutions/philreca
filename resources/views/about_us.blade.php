@@ -476,7 +476,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/ramsey_m_dela_viña.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/ramsey_m_dela_vina.jpg" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
