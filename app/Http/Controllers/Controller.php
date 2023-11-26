@@ -20,68 +20,39 @@ class Controller extends BaseController
         return view('about_us');
     }
 
-    public function services(Request $request)
+    public function electric_cooperatives()
     {
-        $data['tab_all'] = 'show active';
-        $data['tab_visit'] = '';
-        $data['tab_study'] = '';
-        $data['tab_migrate'] = '';
-        $requests = $request->all();
-
-        if ($request['active']) {
-            switch ($request['active']) {
-
-                case 'visit':
-                    $data['tab_all'] = '';
-                    $data['tab_visit'] = 'show active';
-                    $data['tab_study'] = '';
-                    $data['tab_migrate'] = '';
-                    break;
-                case 'study':
-                    $data['tab_all'] = '';
-                    $data['tab_visit'] = '';
-                    $data['tab_study'] = 'show active';
-                    $data['tab_migrate'] = '';
-                    break;
-                case 'migrate':
-                    $data['tab_all'] = '';
-                    $data['tab_visit'] = '';
-                    $data['tab_study'] = '';
-                    $data['tab_migrate'] = 'show active';
-                    break;
-                default:
-
-                    $data['tab_all'] = 'active';
-                    $data['tab_visit'] = '';
-                    $data['tab_study'] = '';
-                    $data['tab_migrate'] = '';
-                    break;
-            }
-
-            
-        }
-        
-        return view('services', $data);
+        return view('electric_cooperatives');
     }
 
-    public function partners()
+    public function allied_organizations()
     {
-        return view('partners');
+        return view('allied_organizations');
     }
 
-    public function developments()
+    public function issuances()
     {
-        return view('developments');
+        return view('issuances');
     }
 
-    public function contact_us()
+    public function resource_center()
     {
-        return view('contact_us');
+        return view('resource_center');
     }
 
-    public function success()
+    public function publications()
     {
-        return view('success');
+        return view('publications');
+    }
+
+    public function events()
+    {
+        return view('events');
+    }
+
+    public function news_and_updates()
+    {
+        return view('news_and_updates');
     }
 
     public function sendContact(Request $request){

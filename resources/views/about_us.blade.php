@@ -59,7 +59,7 @@
     </div>
 </div>
 
-<div class="rts-section-gap rts-faq-bg counter-bg">
+<div class="rts-section-gap rts-faq-bg">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-12">

@@ -50,7 +50,7 @@
 :root {
   --color-primary: #DF0A0A;
   --color-primary-2: #a81111;
-  --color-primary-3: #F64A00;
+  --color-primary-3: #0E1422;
   --color-primary-4: #5264F3;
   --color-primary-5: #B00F0F;
   --color-primary-6: #F64A00;
@@ -24851,7 +24851,7 @@ header.header-home-nine {
   height: 100%;
   width: 133%;
   background: linear-gradient(180deg, #5a00005a 0%, #df0a0a8c 100%);
-  left: 0;
+  left: -50px;
   top: 0;
   transform: rotate(-54deg) translateY(-144%);
   transition: 0.5s;
@@ -24871,16 +24871,17 @@ header.header-home-nine {
   transform: rotate(-53deg) translateY(34%);
 }
 .rts-product-one .thumbnail-area:hover::before {
-  transform: rotate(-54deg) translateY(-117%);
+  transform: rotate(-54deg) translateY(-50%);
 }
 .rts-product-one .product-contact-wrapper {
-  padding: 30px 0 0 0;
+  padding: 10px 0 0 0;
+  border-top: 2px solid black;
 }
 .rts-product-one .product-contact-wrapper span {
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
 }
 .rts-product-one .product-contact-wrapper .title {
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
   transition: 0.3s;
 }
 .rts-product-one:hover .thumbnail-area a.rts-btn {
@@ -30327,7 +30328,7 @@ header.header-home-nine {
 }
 
 .rts-faq-bg {
-  background-image: url(../images/faq/bg-01.jpg);
+  background-color: var(--color-primary-3);
 }
 
 .faq-two-inner .title-area-faq .sub {

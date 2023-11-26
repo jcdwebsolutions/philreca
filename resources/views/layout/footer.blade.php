@@ -133,6 +133,8 @@
 
 <script src="assets/js/vendor/waw.js"></script>
 <script src="assets/js/plugins/contact.form.js"></script>
+
+<script src="assets/js/plugins/spotlight.bundle.js"></script>
 <!-- main Js -->
 <script src="assets/js/main.js"></script>
 <!-- scripts end form hear -->

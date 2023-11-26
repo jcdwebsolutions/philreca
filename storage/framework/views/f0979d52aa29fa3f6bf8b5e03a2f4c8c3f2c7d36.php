@@ -72,12 +72,12 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">Electric Cooperatives</a>
+                                        <a class="nav-link" href="<?php echo e(url('electric_cooperatives')); ?>">Electric Cooperatives</a>
                                         <ul class="submenu menu-link">
                                             <li class="menu-item">
                                                 <a class="tag" href="#">Luzon</a>
                                                 <ul>
-                                                    <li><a href="#">Reca 1</a></li>
+                                                    <li><a href="#">RECA 1</a></li>
                                                     <li><a href="#">FECOREC </a></li>
                                                     <li><a href="#">NELECA</a></li>
                                                     <li><a href="#">CLECA</a></li>
@@ -108,7 +108,7 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">Allied Organization</a>
+                                        <a class="nav-link" href="<?php echo e(url('allied_organizations')); ?>">Allied Organization</a>
                                         <ul class="submenu menu-link">
                                             <li class="menu-item">
                                                 <ul>
@@ -141,7 +141,7 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">Issuances</a>
+                                        <a class="nav-link" href="<?php echo e(url('issuances')); ?>">Issuances</a>
                                         <ul class="submenu menu-link3">
                                             <li><a href="#">Advisories</a></li>
                                             <li><a href="#">Communications</a></li>
@@ -149,7 +149,7 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">Resource Center</a>
+                                        <a class="nav-link" href="<?php echo e(url('resource_center')); ?>">Resource Center</a>
                                         <ul class="submenu menu-link3">
                                             <li><a href="#">Position Paper</a></li>
                                             <li><a href="#">Data & Statistics</a></li>
@@ -157,7 +157,7 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">Publications</a>
+                                        <a class="nav-link" href="<?php echo e(url('publications')); ?>">Publications</a>
                                         <ul class="submenu menu-link3">
                                             <li><a href="#">Press Release & Media Release</a></li>
                                             <li><a href="#">Speech and Messages</a></li>
@@ -165,13 +165,13 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="#">Events</a>
+                                        <a class="nav-link" href="<?php echo e(url('events')); ?>">Events</a>
                                         <ul class="submenu menu-link3">
                                             <li><a href="#">Trainings</a></li>
                                             <li><a href="#">PHILRECA AGMM</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">News and Updates
+                                    <li><a href="<?php echo e(url('news_and_updates')); ?>">News and Updates
                                 </ul>
                             </nav>
                             <!-- <div class="button-area">
