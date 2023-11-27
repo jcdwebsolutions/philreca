@@ -45,6 +45,12 @@
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="astec-4a-tab" data-bs-toggle="tab" data-bs-target="#astec-4a" type="button" role="tab" aria-controls="astec-4a" aria-selected="true">ASTEC IV-A</button>
                         </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="astec-4b-tab" data-bs-toggle="tab" data-bs-target="#astec-4b" type="button" role="tab" aria-controls="astec-4b" aria-selected="true">ASTEC IV-B</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="beca-tab" data-bs-toggle="tab" data-bs-target="#beca" type="button" role="tab" aria-controls="beca" aria-selected="true">BECA</button>
+                        </li>
                     </ul>
 
                 </div>
@@ -514,11 +520,11 @@
                                     <div class="rts-product-one">
                                         <div class="thumbnail-area">
                                             <img src="assets/images/philreca/ec/luzon/astec_iv_a/fleco.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/batelec_1.png"><i class="far fa-arrow-right"></i></a>
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/fleco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <a href="#">
-                                                <h5 class="title jcd-primary-color">BATELEC I</h5>
+                                                <h5 class="title jcd-primary-color">FLECO</h5>
                                             </a>
                                         </div>
                                     </div>
@@ -526,12 +532,12 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ec/luzon/astec_iv_a/batelec_1.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/batelec_1.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_a/quezelco_1.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/quezelco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <a href="#">
-                                                <h5 class="title jcd-primary-color">BATELEC I</h5>
+                                                <h5 class="title jcd-primary-color">QUEZELCO I</h5>
                                             </a>
                                         </div>
                                     </div>
@@ -539,12 +545,267 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ec/luzon/astec_iv_a/batelec_1.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/batelec_1.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_a/quezelco_2.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/quezelco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <a href="#">
-                                                <h5 class="title jcd-primary-color">BATELEC I</h5>
+                                                <h5 class="title jcd-primary-color">QUEZELCO II</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade spotlight-group" id="astec-4b" role="tabpanel" aria-labelledby="astec-4b-tab">
+                            <div class="row g-5">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/biselco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/biselco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">BISELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/lubelco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/lubelco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">LUBELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/marelco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/marelco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">MARELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/omeco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/omeco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">OMECO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/ormeco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/ormeco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">ORMECO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/paleco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/paleco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">PALECO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/romelco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/romelco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">ROMELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/astec_iv_b/tielco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/tielco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">TIELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade spotlight-group" id="beca" role="tabpanel" aria-labelledby="beca-tab">
+                            <div class="row g-5">
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/aleco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/aleco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">ALECO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/canoreco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/canoreco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">CANORECO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/casureco_1.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_1.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">CASURECO I</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/casureco_2.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_2.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">CASURECO II</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/casureco_3.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_3.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">CASURECO III</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/casureco_4.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_4.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">CASURECO IV</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/ficelco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/ficelco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">FICELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/maselco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/maselco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">MASELCO</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/soreco_1.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/soreco_1.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">SORECO I</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/soreco_2.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/soreco_2.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">SORECO II</h5>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                    <div class="rts-product-one">
+                                        <div class="thumbnail-area">
+                                            <img src="assets/images/philreca/ec/luzon/beca/tiselco.png" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/tiselco.png"><i class="far fa-arrow-right"></i></a>
+                                        </div>
+                                        <div class="product-contact-wrapper">
+                                            <a href="#">
+                                                <h5 class="title jcd-primary-color">TISELCO</h5>
                                             </a>
                                         </div>
                                     </div>
@@ -557,7 +818,4 @@
         </div>
     </div>
 </div>
-</div>
-</div>
-
 @endsection

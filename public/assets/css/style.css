@@ -24819,7 +24819,7 @@ header.header-home-nine {
 }
 
 .rts-product-one {
-  padding: 35px 35px 33px 35px;
+  padding: 20px;
   border: 1px solid #EDEFF3;
   border-radius: 15px;
 }
@@ -24881,7 +24881,7 @@ header.header-home-nine {
   /* margin-bottom: 15px; */
 }
 .rts-product-one .product-contact-wrapper .title {
-  /* margin-bottom: 8px; */
+  margin-bottom: 0px;
   transition: 0.3s;
 }
 .rts-product-one:hover .thumbnail-area a.rts-btn {
