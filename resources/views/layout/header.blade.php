@@ -75,34 +75,34 @@
                                         <a class="nav-link" href="{{ url('electric_cooperatives'); }}">Electric Cooperatives</a>
                                         <ul class="submenu menu-link">
                                             <li class="menu-item">
-                                                <a class="tag" href="#luzon">Luzon</a>
+                                                <a class="tag" href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">Luzon</a>
                                                 <ul>
-                                                    <li><a href="#luzon">RECA 1</a></li>
-                                                    <li><a href="#luzon">FECOREC </a></li>
-                                                    <li><a href="#luzon">NELECA</a></li>
-                                                    <li><a href="#luzon">CLECA</a></li>
-                                                    <li><a href="#luzon">ASTEC IV-A</a></li>
-                                                    <li><a href="#luzon">ASTEC IV-B</a></li>
-                                                    <li><a href="#luzon">BECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">RECA 1</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">FECOREC </a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">NELECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">CLECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">ASTEC IV-A</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">ASTEC IV-B</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">BECA</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a class="tag" href="#visayas">Visayas</a>
+                                                <a class="tag" href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">Visayas</a>
                                                 <ul>
-                                                    <li><a href="#visayas">ECAR 6</a></li>
-                                                    <li><a href="#visayas">CEVECA</a></li>
-                                                    <li><a href="#visayas">FRECOR 8</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">ECAR 6</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">CEVECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">FRECOR 8</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a class="tag" href="#mindanao">Mindanao</a>
+                                                <a class="tag" href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">Mindanao</a>
                                                 <ul>
-                                                    <li><a href="#mindanao">RENECA</a></li>
-                                                    <li><a href="#mindanao">NORMECA</a></li>
-                                                    <li><a href="#mindanao">SEMECA</a></li>
-                                                    <li><a href="#mindanao">CEMRECA</a></li>
-                                                    <li><a href="#mindanao">ABEC</a></li>
-                                                    <li><a href="#mindanao">CRECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">RENECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">NORMECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">SEMECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">CEMRECA</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">ABEC</a></li>
+                                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">CRECA</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
