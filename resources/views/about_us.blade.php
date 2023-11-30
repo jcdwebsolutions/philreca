@@ -506,7 +506,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/no_pic.png" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/judy_bello.png" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -551,7 +551,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                 <div class="team-inner-two inner">
                     <div class="thumbnail">
-                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/irish_marie_c_layas.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/philreca/about_us/ourteam/irish_marie_layas.png" alt=""></a>
                     </div>
                     <!-- Acquaintance area -->
                     <div class="inner-content">
@@ -602,7 +602,7 @@
                     <div class="inner-content">
                         <div class="header">
                             <h5 class="title">Arlene C. Tan</h5>
-                            <span>No defined position in doc</span>
+                            <span>NAGMEC Secretary</span>
                         </div>
                     </div>
                     <!-- Acquaintance area -->
