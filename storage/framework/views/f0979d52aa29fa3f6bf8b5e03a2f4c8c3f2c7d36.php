@@ -116,7 +116,7 @@
                                                     <li><a href="#">AMAPHI</a></li>
                                                     <li><a href="#">AMRECO</a></li>
                                                     <li><a href="#">AMRECO PSAGCOR</a></li>
-                                                    <li><a href="#">AVER</a></li>
+                                                    <li><a href="#">AVEC</a></li>
                                                     <li><a href="#">CLECA FLAG</a></li>
                                                     <li><a href="#">ECCOWPA</a></li>
                                                     <li><a href="#">FIMAP</a></li>
@@ -136,7 +136,7 @@
                                                     <li><a href="#">PHILAIM</a></li>
                                                     <li><a href="#">PHILATMEC</a></li>
                                                     <li><a href="#">PHILFECO</a></li>
-                                                    <li><a href="#">ULAT</a></li>
+                                                    <li><a href="#">ULAP</a></li>
                                                 </ul>
                                         </ul>
                                     </li>
