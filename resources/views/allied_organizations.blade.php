@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="rts-title-area">
-                    <h2 class="title jcd-color-white">Allied Organizations</h2>
+                    <!-- <h2 class="title jcd-color-white">Allied Organizations</h2> -->
                 </div>
                 <div class="tab-content-area mt--50 mt_sm--30">
                     <div class="tab-content" id="myTabContent">

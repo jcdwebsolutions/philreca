@@ -30158,8 +30158,8 @@ header.header-home-nine {
   margin-bottom: 0;
 }
 .accordion-area.inner {
-  max-width: 700px;
-  margin: 0 auto;
+  /* max-width: 700px;
+  margin: 0 auto; */
 }
 
 .accordion-one-inner .accordion-item {
@@ -30169,7 +30169,7 @@ header.header-home-nine {
 }
 .accordion-one-inner .accordion-item .accordion-header button {
   font-size: 18px;
-  color: #1C2539;
+  color: #fff;
   font-weight: 700;
   padding: 29px 40px;
 }
@@ -30187,7 +30187,7 @@ header.header-home-nine {
 }
 .accordion-one-inner .accordion-item .accordion-header button::after {
   background-image: none;
-  content: "\f078";
+  content: "\f054";
   font-family: "Font Awesome 5 Pro" !important;
   transition: 0.3s;
   color: var(--color-primary);
@@ -30202,11 +30202,11 @@ header.header-home-nine {
 }
 .accordion-one-inner .accordion-item .accordion-header .accordion-button:not(.collapsed) {
   box-shadow: none;
-  background: #fff;
+  background: var(--color-primary-3);
 }
 .accordion-one-inner .accordion-item .accordion-header .accordion-button:not(.collapsed)::after {
   background-image: none;
-  content: "\f077";
+  content: "\f054";
   font-family: "Font Awesome 5 Pro" !important;
   transform: rotate(0);
   transition: 0.3s;
@@ -30371,12 +30371,12 @@ header.header-home-nine {
 }
 .faq-two-inner .faq-accordion-area .accordion .accordion-item .accordion-header button {
   border: 1px solid #414857;
-  background: transparent;
+  background: #fff;
   border-radius: 5px;
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
-  color: #ffffff;
+  color: #000;
   height: 60px;
   align-items: center;
   display: flex;
@@ -30409,7 +30409,7 @@ header.header-home-nine {
   box-shadow: none;
 }
 .faq-two-inner .faq-accordion-area .accordion .accordion-item .accordion-header button::after {
-  content: "\f078";
+  content: "\f054";
   font-family: "Font Awesome 5 Pro" !important;
   background-image: none;
   top: -5px;

@@ -143,8 +143,8 @@
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="<?php echo e(url('issuances')); ?>">Issuances</a>
                                         <ul class="submenu menu-link3">
-                                            <li><a href="#">Advisories</a></li>
-                                            <li><a href="#">Communications</a></li>
+                                            <li><a href="<?php echo e((Request::segment(1) =='issuances') ? '#advisories' : url('issuances').'#advisories'); ?>">Advisories</a></li>
+                                            <li><a href="<?php echo e((Request::segment(1) =='issuances') ? '#communications' : url('issuances').'#communications'); ?>">Communications</a></li>
                                             <li><a href="#">Philreca Calendar</a></li>
                                         </ul>
                                     </li>
