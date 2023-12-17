@@ -67,7 +67,7 @@
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="<?php echo e(url('about_us')); ?>">About Us</a>
                                         <ul class="submenu menu-link3">
-                                            <li><a class="" href="<?php echo e((Request::segment(1) =='about_us') ? '#what_is_philreca' : url('about_us').'#what_is_philreca'); ?>">What is Philreca?</a></li>
+                                            <li><a class="" href="<?php echo e((Request::segment(1) =='about_us') ? '#what_is_philreca' : url('about_us').'#what_is_philreca'); ?>">What is PHILRECA?</a></li>
                                             <li><a href="<?php echo e((Request::segment(1) =='about_us') ? '#our_team' : url('about_us').'#our_team'); ?>">Our Team</a></li>
                                         </ul>
                                     </li>
@@ -145,7 +145,7 @@
                                         <ul class="submenu menu-link3">
                                             <li><a href="<?php echo e((Request::segment(1) =='issuances') ? '#advisories' : url('issuances').'#advisories'); ?>">Advisories</a></li>
                                             <li><a href="<?php echo e((Request::segment(1) =='issuances') ? '#communications' : url('issuances').'#communications'); ?>">Communications</a></li>
-                                            <li><a href="#">Philreca Calendar</a></li>
+                                            <li><a href="#">PHILRECA Calendar</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">

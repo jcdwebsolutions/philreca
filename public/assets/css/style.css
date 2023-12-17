@@ -30168,11 +30168,12 @@ header.header-home-nine {
   border: none;
 }
 .accordion-one-inner .accordion-item .accordion-header button {
-  font-size: 18px;
+  font-size: 14px;
   color: #fff;
   font-weight: 700;
-  padding: 29px 40px;
+  padding: 20px;
 }
+
 @media only screen and (max-width: 575px) {
   .accordion-one-inner .accordion-item .accordion-header button {
     padding: 13px 15px;
@@ -30193,9 +30194,9 @@ header.header-home-nine {
   color: var(--color-primary);
 }
 .accordion-one-inner .accordion-item .accordion-header button span {
-  color: var(--color-primary);
+  color: #fff;
   margin-right: 5px;
-  min-width: max-content;
+  /* min-width: max-content; */
 }
 .accordion-one-inner .accordion-item .accordion-header button:focus {
   box-shadow: none;
@@ -30360,7 +30361,7 @@ header.header-home-nine {
   margin-top: 5px;
 }
 .faq-two-inner .faq-accordion-area {
-  margin-top: 47px;
+  margin-top: 20px;
 }
 .faq-two-inner .faq-accordion-area .accordion .accordion-item {
   background: transparent;
@@ -30374,7 +30375,7 @@ header.header-home-nine {
   background: #fff;
   border-radius: 5px;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 24px;
   color: #000;
   height: 60px;

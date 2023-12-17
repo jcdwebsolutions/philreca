@@ -183,7 +183,7 @@
                 <!-- single post -->
                 <div class="blog-single-post-listing">
                     <div class="thumbnail">
-                        <img src="assets/images/blog/blog-lg-1.jpg" alt="Business-Blog">
+                        <img src="assets/images/philreca/news_no_image.jpg" alt="Business-Blog">
                     </div>
                     <div class="blog-listing-content">
                         <div class="user-info">
@@ -202,7 +202,7 @@
                 </div>
                 <div class="blog-single-post-listing">
                     <div class="thumbnail">
-                        <img src="assets/images/blog/blog-lg-1.jpg" alt="Business-Blog">
+                        <img src="assets/images/philreca/news_no_image.jpg" alt="Business-Blog">
                     </div>
                     <div class="blog-listing-content">
                         <div class="user-info">
@@ -221,7 +221,7 @@
                 </div>
                 <div class="blog-single-post-listing">
                     <div class="thumbnail">
-                        <img src="assets/images/blog/blog-lg-1.jpg" alt="Business-Blog">
+                        <img src="assets/images/philreca/news_no_image.jpg" alt="Business-Blog">
                     </div>
                     <div class="blog-listing-content">
                         <div class="user-info">
