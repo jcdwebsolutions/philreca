@@ -159,9 +159,9 @@
                                     <li class="has-droupdown">
                                         <a class="nav-link" href="{{ url('publications'); }}">Publications</a>
                                         <ul class="submenu menu-link3">
-                                            <li><a href="#">Press Release & Media Release</a></li>
-                                            <li><a href="#">Speech and Messages</a></li>
-                                            <li><a href="#">Dagitab Newsletter</a></li>
+                                            <li><a href="{{ (Request::segment(1) =='publications') ? '#press_release' : url('publications').'#press_release' }}">Press Release & Media Release</a></li>
+                                            <li><a href="{{ (Request::segment(1) =='publications') ? '#speech' : url('publications').'#speech' }}">Speech and Messages</a></li>
+                                            <li><a href="{{ (Request::segment(1) =='publications') ? '#dagitab' : url('publications').'#dagitab' }}">Dagitab Newsletter</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
