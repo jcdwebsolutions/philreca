@@ -147,7 +147,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/fecorec/abreco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/AbraElectricCoop" target="_blank">
                                                 <h5 class="title jcd-primary-color">ABRECO</h5>
                                             </a>
                                         </div>
@@ -160,7 +160,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/fecorec/beneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://beneco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BENECO</h5>
                                             </a>
                                         </div>
@@ -173,7 +173,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/fecorec/ifelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/ifelco.ifugao" target="_blank">
                                                 <h5 class="title jcd-primary-color">IFELCO</h5>
                                             </a>
                                         </div>
@@ -186,7 +186,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/fecorec/kaelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.kaelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">KAELCO</h5>
                                             </a>
                                         </div>
@@ -199,7 +199,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/fecorec/mopreco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/mopreco.montanusa" target="_blank">
                                                 <h5 class="title jcd-primary-color">MOPRECO</h5>
                                             </a>
                                         </div>
@@ -216,7 +216,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/batanelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/BatanesBatanelco" target="_blank">
                                                 <h5 class="title jcd-primary-color">BATANELCO</h5>
                                             </a>
                                         </div>
@@ -229,7 +229,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/cagelco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.cagelco1.org.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CAGELCO I</h5>
                                             </a>
                                         </div>
@@ -242,7 +242,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/cagelco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://cagelco2.org.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CAGELCO II</h5>
                                             </a>
                                         </div>
@@ -255,7 +255,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/iselco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.iselcouno.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ISELCO I</h5>
                                             </a>
                                         </div>
@@ -268,7 +268,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/iselco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://iselco2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ISELCO II</h5>
                                             </a>
                                         </div>
@@ -281,7 +281,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/nuvelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.nuvelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NUVELCO</h5>
                                             </a>
                                         </div>
@@ -294,7 +294,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/neleca/quirelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://quirelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">QUIRELCO</h5>
                                             </a>
                                         </div>
@@ -311,7 +311,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/aurelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.aurelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">AURELCO</h5>
                                             </a>
                                         </div>
@@ -324,7 +324,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/neeco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.neeco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NEECO I</h5>
                                             </a>
                                         </div>
