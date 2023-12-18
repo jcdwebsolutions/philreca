@@ -337,7 +337,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/neeco_2_area_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.neeco2area1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NEECO II - AREA 1</h5>
                                             </a>
                                         </div>
@@ -350,7 +350,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/neeco_2_area_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://neeco2area2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NEECO II - AREA 2</h5>
                                             </a>
                                         </div>
@@ -363,7 +363,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/pelco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.pelco1.org.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">PELCO I</h5>
                                             </a>
                                         </div>
@@ -376,7 +376,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/pelco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://pelco2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">PELCO II</h5>
                                             </a>
                                         </div>
@@ -389,7 +389,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/pelco_3.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.pelco3.org/" target="_blank">
                                                 <h5 class="title jcd-primary-color">PELCO III</h5>
                                             </a>
                                         </div>
@@ -402,7 +402,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/penelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.penelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">PENELCO</h5>
                                             </a>
                                         </div>
@@ -415,7 +415,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/presco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://presco1968.wixsite.com/presco" target="_blank">
                                                 <h5 class="title jcd-primary-color">PRESCO</h5>
                                             </a>
                                         </div>
@@ -428,7 +428,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/sajelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://sajelco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SAJELCO</h5>
                                             </a>
                                         </div>
@@ -441,7 +441,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/tarelco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://tarelco1ph.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">TARELCO I</h5>
                                             </a>
                                         </div>
@@ -454,7 +454,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/tarelco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.tarelco2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">TARELCO II</h5>
                                             </a>
                                         </div>
@@ -467,7 +467,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/zameco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://zameco1.com/zameco1/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ZAMECO I</h5>
                                             </a>
                                         </div>
@@ -480,7 +480,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/cleca/zameco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://zameco2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ZAMECO II</h5>
                                             </a>
                                         </div>
@@ -497,7 +497,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/batelec_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.batelec1.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BATELEC I</h5>
                                             </a>
                                         </div>
@@ -510,7 +510,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/batelec_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.batelec2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BATELEC II</h5>
                                             </a>
                                         </div>
@@ -523,7 +523,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/fleco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://fleco.com.ph/newsite/" target="_blank">
                                                 <h5 class="title jcd-primary-color">FLECO</h5>
                                             </a>
                                         </div>
@@ -536,7 +536,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/quezelco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://quezelco1.org/" target="_blank">
                                                 <h5 class="title jcd-primary-color">QUEZELCO I</h5>
                                             </a>
                                         </div>
@@ -549,7 +549,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_a/quezelco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.quezelco2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">QUEZELCO II</h5>
                                             </a>
                                         </div>
@@ -566,7 +566,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/biselco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/biselco.coronpalawan" target="_blank">
                                                 <h5 class="title jcd-primary-color">BISELCO</h5>
                                             </a>
                                         </div>
@@ -579,7 +579,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/lubelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/lubelco.cooperative.7" target="_blank">
                                                 <h5 class="title jcd-primary-color">LUBELCO</h5>
                                             </a>
                                         </div>
@@ -592,7 +592,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/marelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://marelco.org.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">MARELCO</h5>
                                             </a>
                                         </div>
@@ -605,7 +605,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/omeco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.omeco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">OMECO</h5>
                                             </a>
                                         </div>
@@ -618,7 +618,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/ormeco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.ormeco-inc.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ORMECO</h5>
                                             </a>
                                         </div>
@@ -631,7 +631,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/paleco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://paleco.net/paleco/" target="_blank">
                                                 <h5 class="title jcd-primary-color">PALECO</h5>
                                             </a>
                                         </div>
@@ -644,7 +644,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/romelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://romelcoinc.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ROMELCO</h5>
                                             </a>
                                         </div>
@@ -657,7 +657,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/astec_iv_b/tielco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://tielcoelecdu.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">TIELCO</h5>
                                             </a>
                                         </div>
@@ -674,7 +674,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/aleco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.alecoinc.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ALECO</h5>
                                             </a>
                                         </div>
@@ -687,7 +687,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/canoreco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://canoreco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CANORECO</h5>
                                             </a>
                                         </div>
@@ -700,7 +700,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.casureco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CASURECO I</h5>
                                             </a>
                                         </div>
@@ -713,7 +713,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.casureco2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CASURECO II</h5>
                                             </a>
                                         </div>
@@ -726,7 +726,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_3.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://casureco3.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CASURECO III</h5>
                                             </a>
                                         </div>
@@ -739,7 +739,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/casureco_4.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://casureco4.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CASURECO IV</h5>
                                             </a>
                                         </div>
@@ -752,7 +752,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/ficelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://ficelco.com/power-advisory/" target="_blank">
                                                 <h5 class="title jcd-primary-color">FICELCO</h5>
                                             </a>
                                         </div>
@@ -765,7 +765,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/maselco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/OfficialMASELCO" target="_blank">
                                                 <h5 class="title jcd-primary-color">MASELCO</h5>
                                             </a>
                                         </div>
@@ -778,7 +778,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/soreco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.soreco1.org/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SORECO I</h5>
                                             </a>
                                         </div>
@@ -791,7 +791,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/soreco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://sorecoii.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SORECO II</h5>
                                             </a>
                                         </div>
@@ -804,7 +804,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/luzon/beca/tiselco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/tiselco.ticao.9" target="_blank">
                                                 <h5 class="title jcd-primary-color">TISELCO</h5>
                                             </a>
                                         </div>
@@ -850,7 +850,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/akelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.akelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">AKELCO</h5>
                                             </a>
                                         </div>
@@ -863,7 +863,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/anteco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://anteco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ANTECO</h5>
                                             </a>
                                         </div>
@@ -876,7 +876,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/capelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://capelcocapiz.weebly.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CAPELCO</h5>
                                             </a>
                                         </div>
@@ -889,7 +889,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/ceneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.ceneco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CENECO</h5>
                                             </a>
                                         </div>
@@ -902,7 +902,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/guimelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.guimelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">GUIMELCO</h5>
                                             </a>
                                         </div>
@@ -915,7 +915,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/ileco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://ileco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ILECO I</h5>
                                             </a>
                                         </div>
@@ -928,7 +928,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/ileco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://ileco2.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ILECO II</h5>
                                             </a>
                                         </div>
@@ -954,7 +954,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/noceco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://ileco3.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NOCECO</h5>
                                             </a>
                                         </div>
@@ -967,7 +967,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ecar_vi/noneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.noceco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NONECO</h5>
                                             </a>
                                         </div>
@@ -984,7 +984,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/banelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://banelcobantayan.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BANELCO</h5>
                                             </a>
                                         </div>
@@ -997,7 +997,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/boheco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://boheco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BOHECO I</h5>
                                             </a>
                                         </div>
@@ -1010,7 +1010,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/boheco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://boheco2.net/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BOHECO II</h5>
                                             </a>
                                         </div>
@@ -1023,7 +1023,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/cebeco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.cebeco-1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CEBECO I</h5>
                                             </a>
                                         </div>
@@ -1036,7 +1036,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/cebeco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.cebeco2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CEBECO II</h5>
                                             </a>
                                         </div>
@@ -1049,7 +1049,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/cebeco_3.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.cebeco3.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CEBECO III</h5>
                                             </a>
                                         </div>
@@ -1062,7 +1062,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/celco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://celcocamotes.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CELCO</h5>
                                             </a>
                                         </div>
@@ -1075,7 +1075,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/noreco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://noreco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NORECO I</h5>
                                             </a>
                                         </div>
@@ -1088,7 +1088,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/noreco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://noreco2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NORECO II</h5>
                                             </a>
                                         </div>
@@ -1101,7 +1101,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/ceveca/prosielco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://prosielco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">PROSIELCO</h5>
                                             </a>
                                         </div>
@@ -1118,7 +1118,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/bileco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/bilecoofficial" target="_blank">
                                                 <h5 class="title jcd-primary-color">BILECO</h5>
                                             </a>
                                         </div>
@@ -1131,7 +1131,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/dorelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://dorelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">DORELCO</h5>
                                             </a>
                                         </div>
@@ -1144,7 +1144,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/esamelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.esamelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ESAMELCO</h5>
                                             </a>
                                         </div>
@@ -1157,7 +1157,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/leyeco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.leyeco-2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">LEYECO II</h5>
                                             </a>
                                         </div>
@@ -1170,7 +1170,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/leyeco_3.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.leyeco3.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">LEYECO III</h5>
                                             </a>
                                         </div>
@@ -1183,7 +1183,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/leyeco_4.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.leyecoiv.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">LEYECO IV</h5>
                                             </a>
                                         </div>
@@ -1196,7 +1196,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/leyeco_5.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.leyeco-v.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">LEYECO V</h5>
                                             </a>
                                         </div>
@@ -1209,7 +1209,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/norsamelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://norsamelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NORSAMELCO</h5>
                                             </a>
                                         </div>
@@ -1222,7 +1222,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/samelco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://samelco1.weebly.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SAMELCO I</h5>
                                             </a>
                                         </div>
@@ -1235,7 +1235,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/samelco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://samelcodos.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SAMELCO II</h5>
                                             </a>
                                         </div>
@@ -1248,7 +1248,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/visayas/frecor_viii/soleco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://soleco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SOLECO</h5>
                                             </a>
                                         </div>
@@ -1303,7 +1303,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/reneca/zamceleco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.zamcelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ZAMCELECO</h5>
                                             </a>
                                         </div>
@@ -1316,7 +1316,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/reneca/zamsureco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.zamsureco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ZAMSURECO I</h5>
                                             </a>
                                         </div>
@@ -1329,7 +1329,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/reneca/zamsureco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/ZamsurecoDos" target="_blank">
                                                 <h5 class="title jcd-primary-color">ZAMSURECO II</h5>
                                             </a>
                                         </div>
@@ -1342,7 +1342,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/reneca/zaneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://zaneco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ZANECO</h5>
                                             </a>
                                         </div>
@@ -1359,7 +1359,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/buseco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://buseco.coop/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BUSECO</h5>
                                             </a>
                                         </div>
@@ -1372,7 +1372,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/camelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://124.106.229.196:88/camelco/" target="_blank">
                                                 <h5 class="title jcd-primary-color">CAMELCO</h5>
                                             </a>
                                         </div>
@@ -1385,7 +1385,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/fibeco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://fibeco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">FIBECO</h5>
                                             </a>
                                         </div>
@@ -1398,7 +1398,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/buseco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://buseco.coop/" target="_blank">
                                                 <h5 class="title jcd-primary-color">BUSECO</h5>
                                             </a>
                                         </div>
@@ -1411,7 +1411,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/laneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://laneco.co/" target="_blank">
                                                 <h5 class="title jcd-primary-color">LANECO</h5>
                                             </a>
                                         </div>
@@ -1424,7 +1424,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/moelci_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://moelci-1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">MOELCI I</h5>
                                             </a>
                                         </div>
@@ -1437,7 +1437,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/moelci_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://moelci2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">MOELCI II</h5>
                                             </a>
                                         </div>
@@ -1450,7 +1450,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/moresco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://moresco1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">MORESCO I</h5>
                                             </a>
                                         </div>
@@ -1463,7 +1463,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/normeca/moresco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://moresco2.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">MORESCO II</h5>
                                             </a>
                                         </div>
@@ -1480,7 +1480,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/semeca/dasureco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.dasureco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">DASURECO</h5>
                                             </a>
                                         </div>
@@ -1493,7 +1493,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/semeca/doreco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.doreco.net/" target="_blank">
                                                 <h5 class="title jcd-primary-color">DORECO</h5>
                                             </a>
                                         </div>
@@ -1506,7 +1506,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/semeca/nordeco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://nordeco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">NORDECO</h5>
                                             </a>
                                         </div>
@@ -1523,7 +1523,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/cemreca/cotelco_ppalma.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.ppalmacotelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">COTELCO - PPALMA</h5>
                                             </a>
                                         </div>
@@ -1536,7 +1536,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/cemreca/cotelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://cotelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">COTELCO</h5>
                                             </a>
                                         </div>
@@ -1549,7 +1549,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/cemreca/socoteco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://socoteco-1.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SOCOTECO I</h5>
                                             </a>
                                         </div>
@@ -1562,7 +1562,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/cemreca/socoteco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.socoteco2.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SOCOTECO II</h5>
                                             </a>
                                         </div>
@@ -1575,7 +1575,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/cemreca/sukelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.sukelco.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SUKELCO</h5>
                                             </a>
                                         </div>
@@ -1592,7 +1592,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/abec/baselco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/baselco.basilan.3720" target="_blank">
                                                 <h5 class="title jcd-primary-color">BASELCO</h5>
                                             </a>
                                         </div>
@@ -1618,7 +1618,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/abec/lasureco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.lasureco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">LASURECO</h5>
                                             </a>
                                         </div>
@@ -1631,7 +1631,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/abec/magelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/MakabagongMAGELCO" target="_blank">
                                                 <h5 class="title jcd-primary-color">MAGELCO</h5>
                                             </a>
                                         </div>
@@ -1670,7 +1670,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/abec/tawelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.facebook.com/tawelcoinc" target="_blank">
                                                 <h5 class="title jcd-primary-color">TAWELCO</h5>
                                             </a>
                                         </div>
@@ -1687,7 +1687,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/aneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://www.aneco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ANECO</h5>
                                             </a>
                                         </div>
@@ -1700,7 +1700,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/aselco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://aselco.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">ASELCO</h5>
                                             </a>
                                         </div>
@@ -1713,7 +1713,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/dielco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://dielcoinc.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">DIELCO</h5>
                                             </a>
                                         </div>
@@ -1726,7 +1726,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/siarelco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://siarelco.com/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SIARELCO</h5>
                                             </a>
                                         </div>
@@ -1739,7 +1739,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/surneco.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://surseco1.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SURNECO</h5>
                                             </a>
                                         </div>
@@ -1752,7 +1752,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/surseco_1.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="https://surseco1.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SURSECO I</h5>
                                             </a>
                                         </div>
@@ -1765,7 +1765,7 @@
                                             <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ec/mindanao/creca/surseco_2.png"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
-                                            <a href="#" target="_blank">
+                                            <a href="http://www.surseco2.com.ph/" target="_blank">
                                                 <h5 class="title jcd-primary-color">SURSECO II</h5>
                                             </a>
                                         </div>
