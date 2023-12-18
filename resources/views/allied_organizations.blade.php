@@ -133,8 +133,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/ec_fimap.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/ec_fimap.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/ec_fimap.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/ec_fimap.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MS. MARINCHIE Y. OLARTE</span>
@@ -147,8 +147,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/hreca.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/hreca.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/hreca.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/hreca.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> ATTY. TYRON JAN G. ALBAO</span>
@@ -161,8 +161,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/lexicon.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/lexicon.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/lexicon.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/lexicon.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MR. JONATHAN LEYSA</span>
@@ -175,8 +175,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/logict.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/logict.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/logict.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/logict.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MR. JEFFREY DE JESUS</span>
@@ -189,8 +189,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/nagmec.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/nagmec.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/nagmec.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/nagmec.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MR. ALLAN L. LANIBA</span>
@@ -231,8 +231,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/pecares.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/pecares.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/pecares.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/pecares.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MS. AMINA LEE GUMAPAC</span>
@@ -259,8 +259,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/phabdrec.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/phabdrec.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/phabdrec.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/phabdrec.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MR. AL D. CASTILLON</span>
@@ -287,8 +287,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/philaim.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/philaim.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/philaim.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/philaim.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MR. CHRISTOPHER A. GARCIA</span>
@@ -315,8 +315,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/philfeco.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/philfeco.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/philfeco.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/philfeco.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MS. ROSELLE TEODOSIO</span>
@@ -329,8 +329,8 @@
                                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                     <div class="rts-product-one jcd-bg-white">
                                         <div class="thumbnail-area">
-                                            <img src="assets/images/philreca/ao/ulap.png" alt="Philreca">
-                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/ulap.png"><i class="far fa-arrow-right"></i></a>
+                                            <img src="assets/images/philreca/ao/ulap.jpg" alt="Philreca">
+                                            <a class="rts-btn btn-primary rounded spotlight" href="assets/images/philreca/ao/ulap.jpg"><i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="product-contact-wrapper">
                                             <span><b>President:</b> MR. ALEX BALDISCO</span>
