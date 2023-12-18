@@ -4,7 +4,7 @@
             <div class="col-xl-3 col-lg-6">
                 <div class="footer-three-single-wized left">
                     <a href="index" class="logo_footer">
-                        <img src="assets/images/philreca/logo.png" alt="Logo-image">
+                        <img src="<?php echo e(asset('assets/images/philreca/logo.png')); ?>" alt="Logo-image">
                     </a>
                     <p class="disc jcd-primary-color">"United We Stand, We Stand United"</p>
                     <ul class="social-three-wrapper">

@@ -30,6 +30,25 @@
                 </div>
             </div>
         </div>
+        <div class="blog-single-post-listing">
+            <div class="thumbnail">
+                <img src="assets/images/philreca/home/press_release/1.jpg" alt="Business-Blog">
+            </div>
+            <div class="blog-listing-content jcd-bg-white">
+                <div class="user-info">
+
+                    <div class="single">
+                        <i class="far fa-clock"></i>
+                        <span>15 Sept, 2023</span>
+                    </div>
+
+                </div>
+                <a class="blog-title" href="#">
+                    <h3 class="title">PHILRECA supports bill seeking to grant lineworkers mandatory insurance coverage</h3>
+                </a>
+                <a class="rts-btn btn-primary" target="_blank" href="{{url('pages/press_release/1')}}">Read details</a>
+            </div>
+        </div>
     </div>
 </div>
 

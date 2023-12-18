@@ -55,7 +55,7 @@
                     <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2">
                         <div class="thumbnail">
                             <a href="{{ url('home') }}">
-                                <img src="assets/images/philreca/logo.png" alt="philreca logo">
+                                <img src="{{asset('assets/images/philreca/logo.png')}}" alt="philreca logo">
                             </a>
                         </div>
                     </div>

@@ -24,3 +24,6 @@ Route::get('resource_center', 'Controller@resource_center');
 Route::get('publications', 'Controller@publications');
 Route::get('events', 'Controller@events');
 Route::get('news_and_updates', 'Controller@news_and_updates');
+
+#custom pages
+Route::get('pages/press_release/{page}', 'Controller@pressRelease');

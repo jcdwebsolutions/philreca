@@ -63,4 +63,11 @@ class Controller extends BaseController
         return view('success');
     
     }
+
+    #Press Release Pages
+
+    public function pressRelease(Request $request, $page)
+    {
+        return view('press_releases.'.$page);
+    }
 }
