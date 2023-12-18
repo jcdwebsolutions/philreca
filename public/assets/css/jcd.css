@@ -89,3 +89,13 @@ background: linear-gradient(90deg, rgba(230,84,84,1) 0%, rgba(255,255,255,1) 5%,
     text-transform: uppercase;
 }
 
+.submenu li a{
+    color:#fff !important;
+}
+
+@media only screen and (max-width: 479px) {
+    .header-container .thumbnail{
+        width: 100%;
+    }
+}
+

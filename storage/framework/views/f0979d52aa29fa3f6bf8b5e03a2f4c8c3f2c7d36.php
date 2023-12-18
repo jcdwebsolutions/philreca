@@ -165,25 +165,27 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="<?php echo e(url('events')); ?>">Events</a>
+                                        <a class="nav-link" href="<?php echo e(url('events')); ?>">News and Events</a>
                                         <ul class="submenu menu-link3">
+                                            <li><a href="<?php echo e(url('news_and_updates')); ?>">News and Updates
                                             <li><a href="#">Trainings</a></li>
                                             <li><a href="#">PHILRECA AGMM</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?php echo e(url('news_and_updates')); ?>">News and Updates
+
                                 </ul>
                             </nav>
-                            <!-- <div class="button-area">
+                            <div class="button-area">
                                 <button id="menu-btn" class="menu rts-btn btn-primary-alta ml--20 ml_sm--5">
-                                    <img class="menu-dark" src="assets/images/icon/menu.png" alt="Menu-icon">
-                                    <img class="menu-light" src="assets/images/icon/menu-light.png" alt="Menu-icon">
+                                    <img class="menu-dark" src="<?php echo e(asset('assets/images/icon/menu.png')); ?>" alt="Menu-icon">
+                                    <img class="menu-light" src="<?php echo e(asset('assets/images/icon/menu-light.png')); ?>" alt="Menu-icon">
                                 </button>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </header>
-    <!-- End header area --><?php /**PATH /Users/gvtech-jaycee/JCD/Philreca/philreca/resources/views/layout/header.blade.php ENDPATH**/ ?>
+    <!-- End header area -->
+<?php /**PATH /Users/gvtech-jaycee/JCD/Philreca/philreca/resources/views/layout/header.blade.php ENDPATH**/ ?>

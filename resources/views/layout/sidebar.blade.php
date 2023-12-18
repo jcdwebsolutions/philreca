@@ -2,10 +2,10 @@
     <button class="close-icon-menu"><i class="far fa-times"></i></button>
     <!-- inner menu area desktop start -->
     <div class="rts-sidebar-menu-desktop">
-        <a class="logo-1" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
-        <a class="logo-2" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
-        <a class="logo-3" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
-        <a class="logo-4" href="index.html"><img class="logo" src="assets/images/philreca/logo.png" alt="philreca"></a>
+        <a class="logo-1" href="{{url('home')}}"><img class="logo" src="{{asset('assets/images/philreca/logo.png')}}" alt="philreca"></a>
+        <a class="logo-2" href="{{url('home')}}l"><img class="logo" src="{{asset('assets/images/philreca/logo.png')}}" alt="philreca"></a>
+        <a class="logo-3" href="{{url('home')}}"><img class="logo" src="{{asset('assets/images/philreca/logo.png')}}" alt="philreca"></a>
+        <a class="logo-4" href="{{url('home')}}"><img class="logo" src="{{asset('assets/images/philreca/logo.png')}}" alt="philreca"></a>
         <div class="body d-none d-xl-block">
             <p class="disc jcd-primary-color">
                 "United We Stand, We Stand United"
@@ -24,24 +24,24 @@
                     <!-- single -->
                     <div class="single">
                         <i class="fas fa-envelope"></i>
-                        <a href="#">example@gmail.com</a>
+                        <a href="#">core@philreca.org</a>
                     </div>
                     <!-- single ENd -->
                     <!-- single -->
                     <div class="single">
                         <i class="fas fa-globe"></i>
-                        <a href="#">www.webexample.com</a>
+                        <a href="#">www.philreca.org</a>
                     </div>
                     <!-- single ENd -->
                     <!-- single -->
                     <div class="single">
                         <i class="fas fa-map-marker-alt"></i>
-                        <a href="#">13/A, New Pro State, NYC</a>
+                        <a href="#">2nd Floor, PNB Building, No. 92 West Avenue, Quezon City, Philippines</a>
                     </div>
                     <!-- single ENd -->
                 </div>
                 <div class="social-wrapper-two menu">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/PHILRECA.INC" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-whatsapp"></i></a>
@@ -49,94 +49,124 @@
                 </div>
             </div>
         </div>
+
         <div class="body-mobile d-block d-xl-none">
             <nav class="nav-main mainmenu-nav">
                 <ul class="mainmenu">
-                    <li class="has-droupdown menu-item">
-                        <a class="menu-link" href="#">Home</a>
-                        <ul class="submenu">
-                            <li>
+                    <li><a class="" href="{{url('home')}}">Home</a></li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('about_us'); }}">About Us</a>
+                        <ul class="submenu menu-link3">
+                            <li><a class="" href="{{ (Request::segment(1) =='about_us') ? '#what_is_philreca' : url('about_us').'#what_is_philreca' }}">What is PHILRECA?</a></li>
+                            <li><a href="{{ (Request::segment(1) =='about_us') ? '#our_team' : url('about_us').'#our_team' }}">Our Team</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('electric_cooperatives'); }}">Electric Cooperatives</a>
+                        <ul class="submenu menu-link">
+                            <li class="menu-item jcd-color-white">
+                                <a class="tag" href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">Luzon</a>
                                 <ul>
-                                    <a href="#0" class="tag">Homepages</a>
-                                    <li class="mobile-menu-link"><a href="index.html">Main Home</a></li>
-                                    <li class="mobile-menu-link"><a href="index-two.html">Consulting Home</a></li>
-                                    <li class="mobile-menu-link"><a href="index-three.html">Corporate Home</a></li>
-                                    <li class="mobile-menu-link"><a href="index-four.html">Insurance Home</a></li>
-                                    <li class="mobile-menu-link"><a href="index-five.html">Marketing Home</a></li>
-                                    <li class="mobile-menu-link"><a href="index-six.html">Finance Home</a></li>
-                                    <li class="mobile-menu-link"><a href="index-seven.html">Human Resources</a></li>
-                                    <li class="mobile-menu-link"><a href="index-eight.html">IT Solutions</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-nine.html">Modern Agency</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-ten.html">Startup Agency</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-eleven.html">Branding-Agency</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">RECA 1</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">FECOREC </a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">NELECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">CLECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">ASTEC IV-A</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">ASTEC IV-B</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#luzon' : url('electric_cooperatives').'#luzon' }}">BECA</a></li>
                                 </ul>
                             </li>
-                            <li>
+                            <li class="menu-item">
+                                <a class="tag" href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">Visayas</a>
                                 <ul>
-                                    <a href="#0" class="tag">Onepages</a>
-                                    <li class="mobile-menu-link"><a href="onepage-one.html">Main Home Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-two.html">Consulting Home Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-three.html">Corporate Home Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-four.html">Insurance Home Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-five.html">Marketing Home Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-six.html">Finance Home Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-seven.html">Human Resources Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-eight.html">IT Solutions Onepage</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-nine.html">Modern Agency</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-ten.html">Startup Agency</a></li>
-                                    <li class="mobile-menu-link"><a href="onepage-eleven.html">Branding-Agency</a></li>
-
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">ECAR 6</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">CEVECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#visayas' : url('electric_cooperatives').'#visayas' }}">FRECOR 8</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item">
+                                <a class="tag" href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">Mindanao</a>
+                                <ul>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">RENECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">NORMECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">SEMECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">CEMRECA</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">ABEC</a></li>
+                                    <li><a href="{{ (Request::segment(1) =='electric_cooperatives') ? '#mindanao' : url('electric_cooperatives').'#mindanao' }}">CRECA</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </li>
-                    <li class="menu-item"><a class="menu-link" href="about-us.html">About Us</a></li>
-                    <li class="has-droupdown menu-item">
-                        <a class="menu-link" href="#">Services</a>
-                        <ul class="submenu">
-                            <li class="has-droupdown sub-droupdown">
-                                <a href="#">Our Service</a>
-                                <ul class="submenu third-lvl mobile-menu">
-                                    <li><a href="our-service.html">Service 1</a></li>
-                                    <li><a href="service-2.html">Service 2</a></li>
-                                    <li><a href="service-3.html">Service 3</a></li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('allied_organizations'); }}">Allied Organization</a>
+                        <ul class="submenu menu-link">
+                            <li class="menu-item">
+                                <ul>
+                                    <li><a href="#">AIEC</a></li>
+                                    <li><a href="#">AMAPHI</a></li>
+                                    <li><a href="#">AMRECO</a></li>
+                                    <li><a href="#">AMRECO PSAGCOR</a></li>
+                                    <li><a href="#">AVEC</a></li>
+                                    <li><a href="#">CLECA FLAG</a></li>
+                                    <li><a href="#">ECCOWPA</a></li>
+                                    <li><a href="#">FIMAP</a></li>
+                                    <li><a href="#">HRECA</a></li>
+                                    <li><a href="#">LEXICON</a></li>
+                                    <li><a href="#">LOGICT</a></li>
+                                </ul>
+                            <li class="menu-item">
+                                <ul>
+                                    <li><a href="#">NAGMEC</a></li>
+                                    <li><a href="#">OECNF</a></li>
+                                    <li><a href="#">PECACORP</a></li>
+                                    <li><a href="#">PECARES</a></li>
+                                    <li><a href="#">PECASEO</a></li>
+                                    <li><a href="#">PHABDREC</a></li>
+                                    <li><a href="#">PHILAECIA</a></li>
+                                    <li><a href="#">PHILAIM</a></li>
+                                    <li><a href="#">PHILATMEC</a></li>
+                                    <li><a href="#">PHILFECO</a></li>
+                                    <li><a href="#">ULAP</a></li>
                                 </ul>
                             </li>
-                            <li class="mobile-menu-link"><a href="service-details.html">Service Details</a></li>
                         </ul>
                     </li>
-                    <li class="has-droupdown menu-item">
-                        <a class="menu-link" href="#">Pages</a>
-                        <ul class="submenu">
-                            <li class="mobile-menu-link"><a href="project.html">Project</a></li>
-                            <li class="mobile-menu-link"><a href="project-details.html">Project Details</a></li>
-                            <li class="mobile-menu-link"><a href="team.html">Team</a></li>
-                            <li class="mobile-menu-link"><a href="team-details.html">Team Details</a></li>
-                            <li class="mobile-menu-link"><a href="appoinment.html">appoinment</a></li>
-                            <li class="mobile-menu-link"><a href="price-plan.html">Price Plan</a></li>
-                            <li class="mobile-menu-link"><a href="404.html">404 Page</a></li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('issuances'); }}">Issuances</a>
+                        <ul class="submenu menu-link3">
+                            <li><a href="{{ (Request::segment(1) =='issuances') ? '#advisories' : url('issuances').'#advisories' }}">Advisories</a></li>
+                            <li><a href="{{ (Request::segment(1) =='issuances') ? '#communications' : url('issuances').'#communications' }}">Communications</a></li>
+                            <li><a href="#">PHILRECA Calendar</a></li>
                         </ul>
                     </li>
-                    <li class="has-droupdown menu-item">
-                        <a class="menu-link" href="#">Blog</a>
-                        <ul class="submenu">
-                            <li class="mobile-menu-link"><a href="blog-list.html">Blog List</a></li>
-                            <li class="mobile-menu-link"><a href="blog-grid.html">Blog Grid</a></li>
-                            <li class="mobile-menu-link"><a href="blog-details.html">Blog Details</a></li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('resource_center'); }}">Resource Center</a>
+                        <ul class="submenu menu-link3">
+                            <li><a href="#">Position Paper</a></li>
+                            <li><a href="#">Data & Statistics</a></li>
+                            <li><a href="#">Research</a></li>
                         </ul>
                     </li>
-                    <li class="menu-item menu-item"><a class="menu-link" href="contactus.html">Contact</a></li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('publications'); }}">Publications</a>
+                        <ul class="submenu menu-link3">
+                            <li><a href="{{ (Request::segment(1) =='publications') ? '#press_release' : url('publications').'#press_release' }}">Press Release & Media Release</a></li>
+                            <li><a href="{{ (Request::segment(1) =='publications') ? '#speech' : url('publications').'#speech' }}">Speech and Messages</a></li>
+                            <li><a href="{{ (Request::segment(1) =='publications') ? '#dagitab' : url('publications').'#dagitab' }}">Dagitab Newsletter</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-droupdown">
+                        <a class="nav-link" href="{{ url('events'); }}">News and Updates</a>
+                        <ul class="submenu menu-link3">
+                            <li><a href="{{ url('news_and_updates'); }}">News and Updates
+                            <li><a href="#">Trainings</a></li>
+                            <li><a href="#">PHILRECA AGMM</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </nav>
-            <div class="social-wrapper-two menu mobile-menu">
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-whatsapp"></i></a>
-                <!-- <a href="#"><i class="fab fa-linkedin"></i></a> -->
-            </div>
-            <a href="#" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btnmenu">Get Quote</a>
         </div>
     </div>
-    <!-- inner menu area desktop End -->
+</div>
+<!-- inner menu area desktop End -->
 </div>
