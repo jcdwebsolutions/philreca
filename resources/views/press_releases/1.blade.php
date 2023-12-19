@@ -21,7 +21,7 @@
 </div>
 <!-- end breadcrumb area -->
 
-<div class="rts-section-gap rts-faq-bg counter-bg">
+<div class="rts-section-gap rts-faq-bg jcd-bg-dark">
     <div class="container">
         <div class="row align-items-center">
         <div class="rts-blog-list-area rts-section-gap">

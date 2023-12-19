@@ -59,7 +59,7 @@
     </div>
 </div>
 
-<div class="rts-section-gap rts-faq-bg">
+<div class="rts-section-gap rts-faq-bg jcd-bg-dark">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-12">
@@ -419,7 +419,7 @@
     </div>
 </div>
 
-<div class="rts-team-area style-3 rts-section-gap" id="our_team">
+<div class="rts-team-area style-3 rts-section-gap jcd-bg-dark" id="our_team">
     <div class="container">
         <div class="row ">
             <div class="faq-two-inner">

@@ -50,7 +50,7 @@
 :root {
   --color-primary: #DF0A0A;
   --color-primary-2: #a81111;
-  --color-primary-3: #0E1422;
+  --color-primary-3: #29292a;
   --color-primary-4: #5264F3;
   --color-primary-5: #B00F0F;
   --color-primary-6: #F64A00;
@@ -26260,7 +26260,7 @@ header.header-home-nine {
 }
 
 .rts-team-area.style-3 {
-  background: #121621;
+  background: #29292a;
   padding-top: 70px;
 }
 .rts-team-area.style-3 .team-inner-two {
