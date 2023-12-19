@@ -87,7 +87,7 @@
 <!-- rts about us section end -->
 
 <!-- rts-counter up area start -->
-<div class="rts-counter-up-area rts-section-gap counter-bg">
+<div class="rts-counter-up-area rts-section-gap jcd-bg-dark">
     <div class="container">
         <div class="row">
             <!-- counter up area -->
@@ -251,7 +251,7 @@
 </div>
 
 <!-- start client area -->
-<div class="rts-client-area ptb--100 bg-footer-one">
+<div class="rts-client-area ptb--100 bg-footer-one jcd-bg-dark">
     <div class="container">
         <div class="row">
             <div class="col-12">
