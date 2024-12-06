@@ -53,7 +53,7 @@
             <!-- about left -->
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
                 <div class="rts-title-area">
-                    <h2 class="title jcd-text-uppercase">What is Philreca?</h2>
+                    <h2 class="title jcd-text-uppercase">What is PHILRECA?</h2>
                 </div>
                 <div class="about-inner">
                     <p class="disc jcd-text-justify">
