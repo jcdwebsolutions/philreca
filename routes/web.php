@@ -19,7 +19,7 @@ Route::get('home', 'Controller@home');
 Route::get('about_us', 'Controller@about_us');
 Route::get('electric_cooperatives', 'Controller@electric_cooperatives');
 Route::get('allied_organizations', 'Controller@allied_organizations');
-Route::get('issuances', 'Controller@issuances');
+Route::get('advisories', 'Controller@advisories');
 Route::get('resource_center', 'Controller@resource_center');
 Route::get('publications', 'Controller@publications');
 Route::get('events', 'Controller@events');

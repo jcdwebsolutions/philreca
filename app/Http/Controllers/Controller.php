@@ -30,9 +30,9 @@ class Controller extends BaseController
         return view('allied_organizations');
     }
 
-    public function issuances()
+    public function advisories()
     {
-        return view('issuances');
+        return view('advisories');
     }
 
     public function resource_center()

@@ -141,11 +141,11 @@
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">
-                                        <a class="nav-link" href="{{ url('issuances'); }}">Issuances</a>
+                                        <a class="nav-link" href="{{ url('advisories'); }}">Advisories</a>
                                         <ul class="submenu menu-link3">
-                                            <li><a href="{{ (Request::segment(1) =='issuances') ? '#advisories' : url('issuances').'#advisories' }}">Advisories</a></li>
-                                            <li><a href="{{ (Request::segment(1) =='issuances') ? '#communications' : url('issuances').'#communications' }}">Communications</a></li>
-                                            <li><a href="#">PHILRECA Calendar</a></li>
+                                            <li><a href="{{ (Request::segment(1) =='advisories') ? '#advisories' : url('advisories').'#advisories' }}">General</a></li>
+                                            <li><a href="{{ (Request::segment(1) =='advisories') ? '#communications' : url('advisories').'#communications' }}">Resource</a></li>
+                                            <li><a href="#">Training</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-droupdown">

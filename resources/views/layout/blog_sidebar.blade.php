@@ -15,6 +15,38 @@
                             <div class="content-area">
                                 <div class="user">
                                     <i class="fal fa-clock"></i>
+                                    <span>11 Dec, 2024</span>
+                                </div>
+                                <a class="post-title" href="#">
+                                    <h6 class="title">YEAR-END THANKSGIVING
+                                </a>
+                            </div>
+                        </div>
+                        <!-- recent-post End -->
+                        <!-- recent-post -->
+                        <div class="recent-post-single">
+                            <div class="thumbnail">
+                                <a href="#"><img src="{{asset('assets/images/blog/details/recent-post/01.png')}}" alt="Blog_post"></a>
+                            </div>
+                            <div class="content-area">
+                                <div class="user">
+                                    <i class="fal fa-clock"></i>
+                                    <span>10 Dec, 2024</span>
+                                </div>
+                                <a class="post-title" href="#">
+                                    <h6 class="title">COLLECTIVE VISION, STRONGER PURPOSE: EC LEADERS’ CONSULTATIVE CONFERENCE</h6>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- recent-post End -->
+                        <!-- recent-post -->
+                        <div class="recent-post-single">
+                            <div class="thumbnail">
+                                <a href="#"><img src="{{asset('assets/images/blog/details/recent-post/01.png')}}" alt="Blog_post"></a>
+                            </div>
+                            <div class="content-area">
+                                <div class="user">
+                                    <i class="fal fa-clock"></i>
                                     <span>13 Oct, 2023</span>
                                 </div>
                                 <a class="post-title" href="#">
@@ -39,41 +71,8 @@
                             </div>
                         </div>
                         <!-- recent-post End -->
-                        <!-- recent-post -->
-                        <div class="recent-post-single">
-                            <div class="thumbnail">
-                                <a href="#"><img src="{{asset('assets/images/blog/details/recent-post/01.png')}}" alt="Blog_post"></a>
-                            </div>
-                            <div class="content-area">
-                                <div class="user">
-                                    <i class="fal fa-clock"></i>
-                                    <span>Oct, 2023</span>
-                                </div>
-                                <a class="post-title" href="#">
-                                    <h6 class="title">NATIONAL COOPERATIVE MONTH</h6>
-                                </a>
-                            </div>
-                        </div>
-                        <!-- recent-post End -->
-                        <!-- recent-post -->
-                        <div class="recent-post-single">
-                            <div class="thumbnail">
-                                <a href="#"><img src="{{asset('assets/images/blog/details/recent-post/01.png')}}" alt="Blog_post"></a>
-                            </div>
-                            <div class="content-area">
-                                <div class="user">
-                                    <i class="fal fa-clock"></i>
-                                    <span>Oct, 2023</span>
-                                </div>
-                                <a class="post-title" href="#">
-                                    <h6 class="title">MENTAL HEALTH AWARENESS MONTH</h6>
-                                </a>
-                            </div>
-                        </div>
-                        <!-- recent-post End -->
                     </div>
                 </div>
-
 
                 <!-- Advisories -->
                 <div class="rts-single-wized Recent-post">

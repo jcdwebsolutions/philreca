@@ -267,6 +267,7 @@
                     <a target="_blank" href="http://www.napocor.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/NPC.png" alt="Philreca"></a>
                     <a target="_blank" href="https://www.pnoc.com.ph/"><img src="assets/images/philreca/home/energy_agencies/PNOC.png" alt="Philreca"></a>
                     <a target="_blank" href="https://www.psalm.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/PSALM.jpg" alt="Philreca"></a>
+                    <a target="_blank" href="https://www.nea.gov.ph/ao39/"><img src="assets/images/philreca/home/energy_agencies/NEA.png" alt="Philreca"></a>
                 </div>
                 <div class="client-wrapper-one">
                     <a target="_blank" href="https://www.doe.gov.ph/"><img src="assets/images/philreca/home/energy_agencies/DOE.png" alt="Philreca"></a>

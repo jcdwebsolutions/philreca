@@ -7,13 +7,13 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 breadcrumb-1">
-                <h1 class="title">Issuances</h1>
+                <h1 class="title">Advisories</h1>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                 <div class="bread-tag">
                     <a href="{{url('home')}}">Home</a>
                     <span> / </span>
-                    <a href="{{url('issuances')}}" class="active">Issuances</a>
+                    <a href="{{url('advisories')}}" class="active">Advisories</a>
                 </div>
             </div>
         </div>
