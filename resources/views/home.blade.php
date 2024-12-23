@@ -50,8 +50,14 @@
 <div class="rts-about-area rts-section-gap jcd-bg">
     <div class="container">
         <div class="row g-5 align-items-center">
+            <center>
+                <video autoplay="true" controls width="100%">
+                    <source src="{{ asset('assets/images/philreca/home/vid.mp4') }}" type="video/mp4">
+                </video>
+            </center>
+
             <!-- about left -->
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-md-2 order-sm-2 order-2 mt_md--50 mt_sm--50">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 mt_md--50 mt_sm--50">
                 <div class="rts-title-area">
                     <h2 class="title jcd-text-uppercase">What is PHILRECA?</h2>
                 </div>
@@ -65,15 +71,12 @@
                     <p class="disc jcd-text-justify">
                         With the new industry developments and challenges, PHILRECA endeavors to continue protecting the rights and interests of its member-Electric Cooperatives, their member-consumer-owners, and EC Allied Organizations.
                     </p>
-
-
-
                 </div>
             </div>
             <!-- about right -->
 
             <!-- about-right Start-->
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-md-1 order-sm-1 order-1">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="about-image-v-inner">
                     <div class="image-area">
                         <img src="assets/images/philreca/home/philreca.gif" alt="philreca">
@@ -81,10 +84,57 @@
                 </div>
             </div>
             <!-- about-right end -->
+
+            <hr>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="about-image-v-inner">
+                    <div class="image-area">
+                        <video controls width="100%">
+                            <source src="{{  asset('assets/images/philreca/home/hymn.mp4') }}" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
+            </div>
+            <!-- about-right end -->
+            <!-- about left -->
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 mt_md--50 mt_sm--50">
+                <div class="rts-title-area">
+                    <h2 class="title jcd-text-uppercase">PHILRECA Hymn</h2>
+                </div>
+                <div class="about-inner">
+                    <p class="disc jcd-text-justify">
+                        HERE WE ARE STANDING THROUGH THE TEST OF TIME
+                        GIVING ALL THE BEST WITH DIGNITY AND PRIDE
+                        WE'RE SERVING YOU ELECTRIC POWER THAT WILL LIGHT OUR FUTURE AND THE NATION WIIL SHINE
+                    </p>
+                    <p class="disc jcd-text-justify">
+                        LIFTING LIVES GIVING COMFORT
+                        THIS POWER PHILRECA WILL ENSURE
+                        THROUGH THE YEARS OUR AIM AND GOALS
+                        TO CHEER YOU UP AND SERVE WITH PLEASURE
+                    </p>
+                    <p class="disc jcd-text-justify">
+                        HERE WE ARE STANDING THROUGH THE TEST OF TIME
+                        GIVING ALL THE BEST WITH DIGNITY AND PRIDE
+                        WE'RE SERVING YOU ELECTRIC POWER THAT WILL LIGHT OUR FUTURE AND THE NATION WIIL SHINE
+                    </p>
+                    <p class="disc jcd-text-justify">
+                        WE'LL STAND LIKE POLES LINKING POWER
+                        PHILRECA'S LIGHTING YOUR WAY
+                        WE ARE ONE AND MEANT TO BE
+                        MAKE THIS MISSION A DESTINY
+
+                    </p>
+                    <p class="disc jcd-text-justify">
+                        HERE WE ARE STANDING THROUGH THE TEST OF TIME
+                        GIVING ALL THE BEST WITH DIGNITY AND PRIDE
+                        WE'RE SERVING YOU ELECTRIC POWER THAT WILL LIGHT OUR FUTURE AND THE NATION WIIL SHINE
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
-<!-- rts about us section end -->
 
 <!-- rts-counter up area start -->
 <div class="rts-counter-up-area rts-section-gap jcd-bg-dark">
@@ -233,7 +283,7 @@
                             <!-- single infoe end -->
                         </div>
                         <a class="blog-title" href="blog-details.html">
-                            <h3 class="title">DOE eyes 9 ports for wind energy dev’t</h3>
+                            <h3 class="title">DOE eyes 9 ports for wind energy dev't</h3>
                         </a>
                         <a class="rts-btn btn-primary" target="_blank" href="https://business.inquirer.net/424670/doe-eyes-9-ports-for-wind-energy-devt#ixzz8F7hpQjCV">Read details</a>
                     </div>

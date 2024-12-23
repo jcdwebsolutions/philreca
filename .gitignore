@@ -21,3 +21,5 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+public/assets/images/philreca/home/vid.mp4
+public/assets/images/philreca/home/hymn.mp4
